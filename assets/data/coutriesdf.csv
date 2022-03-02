@@ -1,0 +1,43 @@
+country,title,points,price,variety,iso_alpha,price_grade,points_grade,title_grade,Variety_grade
+Argentina,3456,86.73929437112847,24.61890654457312,66,ARG,Cheap,Not good,Very Numerous,Very much
+Armenia,2,87.5,14.5,2,ARM,Very cheap,Not so good,Not much,Not much
+Australia,2100,88.60206370569762,35.18393898609242,63,AUS,Very Expensive,Good,Very Numerous,Very much
+Austria,2498,90.2109064644276,30.80028891296497,53,AUT,Very Expensive,Very Good,Very Numerous,Very much
+Bosnia and Herzegovina,2,86.5,12.5,2,BIH,Very cheap,Not good,Not much,Not much
+Brazil,34,84.4054054054054,23.864864864864863,11,BRA,Cheap,Not good,Not so much,Not so much
+Bulgaria,132,87.93617021276596,14.645390070921986,23,BGR,Very cheap,Good,Numerous,Much
+Canada,223,89.3794466403162,35.723320158102766,30,CAN,Very Expensive,Very Good,Numerous,Much
+Chile,4098,86.50603782182729,20.77967646388699,60,CHL,Cheap,Not good,Very Numerous,Very much
+China,1,89.0,18.0,1,CHN,Very cheap,Very Good,Not much,Not much
+Croatia,67,87.3,25.1,20,HRV,Expensive,Not so good,Not so much,Much
+Cyprus,9,87.0,16.2,4,CYP,Very cheap,Not so good,Not much,Not much
+Czech Republic,10,87.45454545454545,24.818181818181817,9,CZE,Expensive,Not so good,Not much,Not so much
+England,47,91.7090909090909,52.4,3,GBR,Very Expensive,Very Good,Not so much,Not much
+France,14810,88.7403951701427,40.51280643980973,140,FRA,Very Expensive,Very Good,Very Numerous,Very much
+Georgia,72,87.70370370370371,19.246913580246915,10,GEO,Cheap,Not so good,Numerous,Not so much
+Germany,1935,89.84567901234568,42.420702754036085,32,DEU,Very Expensive,Very Good,Very Numerous,Much
+Greece,405,87.35,22.686363636363637,44,GRC,Cheap,Not so good,Numerous,Much
+Hungary,126,89.26760563380282,41.25352112676056,23,HUN,Very Expensive,Very Good,Numerous,Much
+India,8,90.22222222222223,13.333333333333334,3,IND,Very cheap,Very Good,Not much,Not much
+Israel,452,88.49795081967213,31.795081967213115,47,ISR,Very Expensive,Good,Numerous,Very much
+Italy,14721,88.71522643970927,40.62626576380692,186,ITA,Very Expensive,Very Good,Very Numerous,Very much
+Lebanon,32,87.68571428571428,30.685714285714287,6,LBN,Expensive,Not so good,Not so much,Not so much
+Luxembourg,2,88.66666666666667,22.666666666666668,2,LUX,Cheap,Very Good,Not much,Not much
+Macedonia,11,86.83333333333333,15.583333333333334,8,MKD,Very cheap,Not good,Not so much,Not so much
+Mexico,68,85.25714285714285,26.785714285714285,23,MEX,Expensive,Not good,Not so much,Much
+Moldova,54,87.28070175438596,16.92982456140351,20,MDA,Very cheap,Not so good,Not so much,Much
+Morocco,24,88.57142857142857,19.5,8,MAR,Cheap,Good,Not so much,Not so much
+New Zealand,1232,88.31359649122807,26.966374269005847,25,NZL,Expensive,Good,Very Numerous,Much
+Peru,16,83.5625,18.0625,11,PER,Cheap,Not good,Not so much,Not so much
+Portugal,4273,88.33038983415895,25.6069351712255,87,PRT,Expensive,Good,Very Numerous,Very much
+Romania,101,86.4,15.241666666666667,19,ROU,Very cheap,Not good,Numerous,Not so much
+Serbia,8,87.5,24.5,6,SRB,Cheap,Not so good,Not much,Not so much
+Slovakia,1,87.0,16.0,1,SVK,Very cheap,Not so good,Not much,Not much
+Slovenia,69,88.03846153846153,24.525641025641026,26,SVN,Cheap,Good,Not so much,Much
+South Africa,1180,87.85758998435055,24.753521126760564,52,ZAF,Expensive,Good,Numerous,Very much
+Spain,5577,87.33097199341022,28.78451400329489,123,ESP,Expensive,Not so good,Very Numerous,Very much
+Switzerland,6,88.57142857142857,85.28571428571429,5,CHE,Very Expensive,Good,Not much,Not much
+Turkey,80,88.08888888888889,24.633333333333333,24,TUR,Expensive,Good,Numerous,Much
+US,49282,88.60281030444965,36.83672131147541,250,USA,Very Expensive,Very Good,Very Numerous,Very much
+Ukraine,5,83.8,8.8,4,UKR,Very cheap,Not good,Not much,Not much
+Uruguay,96,86.67289719626169,26.457943925233646,16,URY,Expensive,Not good,Numerous,Not so much

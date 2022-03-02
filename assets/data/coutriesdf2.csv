@@ -1,0 +1,1549 @@
+country,variety,title,points,price,iso_alpha,price_grade,points_grade,title_grade
+Argentina,Barbera,1,85.0,18.0,ARG,Cheap,Not good,Not so much
+Argentina,Bonarda,98,86.5047619047619,16.62857142857143,ARG,Very cheap,Not so good,Very Numerous
+Argentina,Bordeaux-style Red Blend,79,89.84883720930233,41.54651162790697,ARG,Very Expensive,Very Good,Very Numerous
+Argentina,Bordeaux-style White Blend,1,83.0,14.0,ARG,Very cheap,Not good,Not so much
+Argentina,Cabernet Blend,8,88.25,36.25,ARG,Very Expensive,Good,Numerous
+Argentina,Cabernet Franc,56,89.421875,45.109375,ARG,Very Expensive,Very Good,Very Numerous
+Argentina,Cabernet Franc-Cabernet Sauvignon,3,88.66666666666667,40.666666666666664,ARG,Very Expensive,Good,Numerous
+Argentina,Cabernet Franc-Malbec,3,91.0,58.5,ARG,Very Expensive,Very Good,Numerous
+Argentina,Cabernet Sauvignon,505,86.05597014925372,19.488805970149254,ARG,Cheap,Not good,Very Numerous
+Argentina,Cabernet Sauvignon-Cabernet Franc,1,84.0,18.0,ARG,Cheap,Not good,Not so much
+Argentina,Cabernet Sauvignon-Malbec,11,86.91666666666667,44.583333333333336,ARG,Very Expensive,Not so good,Numerous
+Argentina,Cabernet Sauvignon-Merlot,5,87.0,19.0,ARG,Cheap,Not so good,Numerous
+Argentina,Cabernet Sauvignon-Shiraz,3,85.33333333333333,10.0,ARG,Very cheap,Not good,Numerous
+Argentina,Cabernet Sauvignon-Syrah,2,86.0,15.0,ARG,Very cheap,Not good,Not so much
+Argentina,Cabernet-Malbec,1,86.0,11.0,ARG,Very cheap,Not good,Not so much
+Argentina,Cabernet-Syrah,1,88.0,16.0,ARG,Very cheap,Good,Not so much
+Argentina,Champagne Blend,1,87.0,25.0,ARG,Expensive,Not so good,Not so much
+Argentina,Chardonnay,269,84.94035087719298,17.49473684210526,ARG,Cheap,Not good,Very Numerous
+Argentina,Chardonnay-Sauvignon,2,84.5,12.5,ARG,Very cheap,Not good,Not so much
+Argentina,Chardonnay-Semillon,1,81.0,13.0,ARG,Very cheap,Not good,Not so much
+Argentina,Chardonnay-Viognier,6,85.16666666666667,16.666666666666668,ARG,Very cheap,Not good,Numerous
+Argentina,Chenin Blanc,2,84.0,15.5,ARG,Very cheap,Not good,Not so much
+Argentina,Chenin Blanc-Chardonnay,4,85.8,11.0,ARG,Very cheap,Not good,Numerous
+Argentina,Gewürztraminer,1,84.0,25.0,ARG,Expensive,Not good,Not so much
+Argentina,Malbec,1390,87.50831669993346,28.001330671989354,ARG,Expensive,Not so good,Very Numerous
+Argentina,Malbec Blend,2,90.5,66.5,ARG,Very Expensive,Very Good,Not so much
+Argentina,Malbec-Bonarda,4,87.5,20.25,ARG,Cheap,Not so good,Numerous
+Argentina,Malbec-Cabernet,3,91.66666666666667,113.33333333333333,ARG,Very Expensive,Very Good,Numerous
+Argentina,Malbec-Cabernet Franc,10,88.7,38.8,ARG,Very Expensive,Good,Numerous
+Argentina,Malbec-Cabernet Sauvignon,52,88.42857142857143,41.482142857142854,ARG,Very Expensive,Good,Very Numerous
+Argentina,Malbec-Merlot,7,86.28571428571429,21.0,ARG,Cheap,Not good,Numerous
+Argentina,Malbec-Petit Verdot,1,91.0,49.0,ARG,Very Expensive,Very Good,Not so much
+Argentina,Malbec-Syrah,14,85.625,15.0,ARG,Very cheap,Not good,Numerous
+Argentina,Malbec-Tannat,3,84.66666666666667,36.666666666666664,ARG,Very Expensive,Not good,Numerous
+Argentina,Malbec-Tempranillo,2,86.5,11.0,ARG,Very cheap,Not so good,Not so much
+Argentina,Merlot,56,85.03448275862068,17.75862068965517,ARG,Cheap,Not good,Very Numerous
+Argentina,Merlot-Cabernet Franc,1,87.0,27.0,ARG,Expensive,Not so good,Not so much
+Argentina,Moscatel,1,81.0,11.0,ARG,Very cheap,Not good,Not so much
+Argentina,Moscato,10,82.18181818181819,9.636363636363637,ARG,Very cheap,Not good,Numerous
+Argentina,Nebbiolo,3,88.75,64.0,ARG,Very Expensive,Good,Numerous
+Argentina,Petit Verdot,8,88.5,37.6,ARG,Very Expensive,Good,Numerous
+Argentina,Pinot Grigio,26,83.77777777777777,10.88888888888889,ARG,Very cheap,Not good,Very Numerous
+Argentina,Pinot Gris,7,84.57142857142857,12.571428571428571,ARG,Very cheap,Not good,Numerous
+Argentina,Pinot Noir,95,85.6930693069307,23.08910891089109,ARG,Expensive,Not good,Very Numerous
+Argentina,Red Blend,209,88.42290748898678,34.14537444933921,ARG,Very Expensive,Good,Very Numerous
+Argentina,Riesling,1,86.0,15.0,ARG,Very cheap,Not good,Not so much
+Argentina,Rosado,3,86.66666666666667,12.0,ARG,Very cheap,Not so good,Numerous
+Argentina,Rosé,34,84.05555555555556,13.527777777777779,ARG,Very cheap,Not good,Very Numerous
+Argentina,Sangiovese,2,81.5,18.0,ARG,Cheap,Not good,Not so much
+Argentina,Sauvignon Blanc,70,84.35526315789474,14.907894736842104,ARG,Very cheap,Not good,Very Numerous
+Argentina,Shiraz,8,84.375,8.625,ARG,Very cheap,Not good,Numerous
+Argentina,Shiraz-Malbec,1,90.0,16.0,ARG,Very cheap,Very Good,Not so much
+Argentina,Sparkling Blend,3,85.0,18.333333333333332,ARG,Cheap,Not good,Numerous
+Argentina,Syrah,50,85.78571428571429,17.375,ARG,Cheap,Not good,Very Numerous
+Argentina,Syrah-Bonarda,1,87.0,13.0,ARG,Very cheap,Not so good,Not so much
+Argentina,Syrah-Malbec,1,89.0,14.0,ARG,Very cheap,Very Good,Not so much
+Argentina,Syrah-Viognier,2,90.66666666666667,58.333333333333336,ARG,Very Expensive,Very Good,Not so much
+Argentina,Sémillon,12,83.58333333333333,17.916666666666668,ARG,Cheap,Not good,Numerous
+Argentina,Tannat,4,86.5,22.0,ARG,Cheap,Not so good,Numerous
+Argentina,Tempranillo,19,83.55,13.5,ARG,Very cheap,Not good,Very Numerous
+Argentina,Tocai,1,85.0,14.0,ARG,Very cheap,Not good,Not so much
+Argentina,Torrontés,224,85.52719665271967,13.510460251046025,ARG,Very cheap,Not good,Very Numerous
+Argentina,Trebbiano,1,83.0,9.0,ARG,Very cheap,Not good,Not so much
+Argentina,Trousseau,1,88.0,60.0,ARG,Very Expensive,Good,Not so much
+Argentina,Viognier,20,84.42857142857143,13.380952380952381,ARG,Very cheap,Not good,Very Numerous
+Argentina,White Blend,30,84.74193548387096,20.741935483870968,ARG,Cheap,Not good,Very Numerous
+Armenia,Kangoun,1,87.0,14.0,ARM,Very cheap,Not so good,Not so much
+Armenia,Rosé,1,88.0,15.0,ARM,Very cheap,Good,Not so much
+Australia,Bordeaux-style Red Blend,28,89.13793103448276,67.41379310344827,AUS,Very Expensive,Very Good,Very Numerous
+Australia,Cabernet Blend,3,88.66666666666667,37.333333333333336,AUS,Very Expensive,Good,Numerous
+Australia,Cabernet Merlot,5,86.8,23.4,AUS,Expensive,Not so good,Numerous
+Australia,Cabernet Sauvignon,253,89.2566037735849,35.928301886792454,AUS,Very Expensive,Very Good,Very Numerous
+Australia,Cabernet Sauvignon-Merlot,10,88.54545454545455,32.54545454545455,AUS,Very Expensive,Good,Numerous
+Australia,Cabernet Sauvignon-Merlot-Shiraz,1,91.0,20.0,AUS,Cheap,Very Good,Not so much
+Australia,Cabernet Sauvignon-Sangiovese,1,88.0,30.0,AUS,Expensive,Good,Not so much
+Australia,Cabernet Sauvignon-Shiraz,10,89.9090909090909,43.45454545454545,AUS,Very Expensive,Very Good,Numerous
+Australia,Cabernet-Shiraz,1,96.0,150.0,AUS,Very Expensive,Very Good,Not so much
+Australia,Champagne Blend,4,87.75,30.5,AUS,Expensive,Not so good,Numerous
+Australia,Chardonnay,374,87.33924050632912,25.445569620253163,AUS,Expensive,Not so good,Very Numerous
+Australia,Chardonnay-Semillon,2,89.66666666666667,18.333333333333332,AUS,Cheap,Very Good,Not so much
+Australia,Chenin Blanc,1,87.0,16.0,AUS,Very cheap,Not so good,Not so much
+Australia,Durif,2,86.0,32.5,AUS,Very Expensive,Not good,Not so much
+Australia,G-S-M,22,89.56,28.76,AUS,Expensive,Very Good,Very Numerous
+Australia,Grenache,72,89.55263157894737,45.19736842105263,AUS,Very Expensive,Very Good,Very Numerous
+Australia,Grenache-Shiraz,3,88.0,25.5,AUS,Expensive,Good,Numerous
+Australia,Malbec,5,86.8,65.6,AUS,Very Expensive,Not so good,Numerous
+Australia,Marsanne,5,89.5,26.666666666666668,AUS,Expensive,Very Good,Numerous
+Australia,Marsanne-Roussanne,2,88.0,42.5,AUS,Very Expensive,Good,Not so much
+Australia,Mataro,6,90.5,62.166666666666664,AUS,Very Expensive,Very Good,Numerous
+Australia,Merlot,19,85.73684210526316,20.68421052631579,AUS,Cheap,Not good,Very Numerous
+Australia,Montepulciano,1,91.0,25.0,AUS,Expensive,Very Good,Not so much
+Australia,Moscato,10,85.81818181818181,12.363636363636363,AUS,Very cheap,Not good,Numerous
+Australia,Mourvèdre,7,91.0,50.285714285714285,AUS,Very Expensive,Very Good,Numerous
+Australia,Mourvèdre-Syrah,1,92.0,18.0,AUS,Cheap,Very Good,Not so much
+Australia,Muscat,1,84.0,15.0,AUS,Very cheap,Not good,Not so much
+Australia,Petit Verdot,1,88.0,20.0,AUS,Cheap,Good,Not so much
+Australia,Petite Sirah,5,87.33333333333333,20.833333333333332,AUS,Cheap,Not so good,Numerous
+Australia,Pinot Grigio,24,86.07692307692308,13.5,AUS,Very cheap,Not good,Very Numerous
+Australia,Pinot Gris,13,87.42857142857143,18.357142857142858,AUS,Cheap,Not so good,Numerous
+Australia,Pinot Noir,115,87.35433070866142,32.28346456692913,AUS,Very Expensive,Not so good,Very Numerous
+Australia,Red Blend,58,87.83333333333333,29.318181818181817,AUS,Expensive,Not so good,Very Numerous
+Australia,Rhône-style Red Blend,11,88.16666666666667,24.916666666666668,AUS,Expensive,Good,Numerous
+Australia,Rhône-style White Blend,5,87.8,22.0,AUS,Cheap,Not so good,Numerous
+Australia,Riesling,139,88.9795918367347,22.244897959183675,AUS,Cheap,Good,Very Numerous
+Australia,Rosé,24,87.25,19.0,AUS,Cheap,Not so good,Very Numerous
+Australia,Roussanne,6,88.5,45.333333333333336,AUS,Very Expensive,Good,Numerous
+Australia,Sangiovese,5,88.0,15.8,AUS,Very cheap,Good,Numerous
+Australia,Sauvignon,1,88.0,30.0,AUS,Expensive,Good,Not so much
+Australia,Sauvignon Blanc,44,87.15217391304348,17.58695652173913,AUS,Cheap,Not so good,Very Numerous
+Australia,Sauvignon Blanc-Semillon,22,87.68181818181819,21.727272727272727,AUS,Cheap,Not so good,Very Numerous
+Australia,Savagnin,2,87.5,15.0,AUS,Very cheap,Not so good,Not so much
+Australia,Semillon-Chardonnay,1,85.0,8.0,AUS,Very cheap,Not good,Not so much
+Australia,Semillon-Sauvignon Blanc,11,85.63636363636364,20.363636363636363,AUS,Cheap,Not good,Numerous
+Australia,Shiraz,573,89.68524590163935,47.718032786885246,AUS,Very Expensive,Very Good,Very Numerous
+Australia,Shiraz-Cabernet,2,86.66666666666667,56.333333333333336,AUS,Very Expensive,Not so good,Not so much
+Australia,Shiraz-Cabernet Sauvignon,28,87.41379310344827,20.620689655172413,AUS,Cheap,Not so good,Very Numerous
+Australia,Shiraz-Grenache,14,89.66666666666667,28.266666666666666,AUS,Expensive,Very Good,Numerous
+Australia,Shiraz-Malbec,2,90.0,20.0,AUS,Cheap,Very Good,Not so much
+Australia,Shiraz-Mourvèdre,2,89.0,18.5,AUS,Cheap,Very Good,Not so much
+Australia,Shiraz-Roussanne,1,90.0,29.0,AUS,Expensive,Very Good,Not so much
+Australia,Shiraz-Viognier,38,89.57894736842105,53.18421052631579,AUS,Very Expensive,Very Good,Very Numerous
+Australia,Sparkling Blend,8,88.625,35.625,AUS,Very Expensive,Good,Numerous
+Australia,Syrah,16,91.625,105.5,AUS,Very Expensive,Very Good,Very Numerous
+Australia,Sémillon,19,89.05,29.6,AUS,Expensive,Very Good,Very Numerous
+Australia,Tempranillo,3,89.66666666666667,22.0,AUS,Cheap,Very Good,Numerous
+Australia,Verdelho,5,87.0,15.4,AUS,Very cheap,Not so good,Numerous
+Australia,Vermentino,3,86.33333333333333,15.666666666666666,AUS,Very cheap,Not so good,Numerous
+Australia,Viognier,31,88.34375,23.125,AUS,Expensive,Good,Very Numerous
+Australia,Viognier-Marsanne,1,89.0,17.0,AUS,Cheap,Very Good,Not so much
+Australia,White Blend,15,86.73333333333333,17.266666666666666,AUS,Cheap,Not so good,Very Numerous
+Australia,Zinfandel,3,88.33333333333333,29.333333333333332,AUS,Expensive,Good,Numerous
+Austria,Austrian Red Blend,51,89.79629629629629,35.166666666666664,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Austrian white blend,51,90.35593220338983,32.69491525423729,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Blauburgunder,1,93.0,19.0,AUT,Cheap,Very Good,Not so much
+Austria,Blaufränkisch,173,90.28877005347593,32.57219251336898,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Bordeaux-style Red Blend,2,90.5,36.5,AUT,Very Expensive,Very Good,Not so much
+Austria,Cabernet Franc,1,92.0,47.0,AUT,Very Expensive,Very Good,Not so much
+Austria,Cabernet Franc-Merlot,1,92.0,60.0,AUT,Very Expensive,Very Good,Not so much
+Austria,Cabernet Sauvignon,5,87.4,31.2,AUT,Expensive,Not so good,Numerous
+Austria,Champagne Blend,1,88.0,23.0,AUT,Expensive,Good,Not so much
+Austria,Chardonnay,46,90.18518518518519,35.27777777777778,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Chardonnay Weissburgunder,1,94.0,58.0,AUT,Very Expensive,Very Good,Not so much
+Austria,Chardonnay-Pinot Blanc,2,90.5,47.5,AUT,Very Expensive,Very Good,Not so much
+Austria,Furmint,2,91.5,14.5,AUT,Very cheap,Very Good,Not so much
+Austria,Gelber Muskateller,19,88.80952380952381,26.047619047619047,AUT,Expensive,Good,Very Numerous
+Austria,Gelber Traminer,1,95.0,35.0,AUT,Very Expensive,Very Good,Not so much
+Austria,Gewürztraminer,2,89.5,21.0,AUT,Cheap,Very Good,Not so much
+Austria,Grauburgunder,4,89.4,29.8,AUT,Expensive,Very Good,Numerous
+Austria,Gros Manseng,1,89.0,25.0,AUT,Expensive,Very Good,Not so much
+Austria,Grüner Veltliner,918,90.18067632850241,28.444444444444443,AUT,Expensive,Very Good,Very Numerous
+Austria,Merlot,2,91.5,35.0,AUT,Very Expensive,Very Good,Not so much
+Austria,Morillon,6,89.5,31.0,AUT,Expensive,Very Good,Numerous
+Austria,Muskat,1,88.0,13.0,AUT,Very cheap,Good,Not so much
+Austria,Muskat Ottonel,8,87.0,12.444444444444445,AUT,Very cheap,Not so good,Numerous
+Austria,Muskateller,1,86.0,23.0,AUT,Expensive,Not good,Not so much
+Austria,Neuburger,5,90.71428571428571,24.714285714285715,AUT,Expensive,Very Good,Numerous
+Austria,Nielluciu,1,89.0,24.0,AUT,Expensive,Very Good,Not so much
+Austria,Orangetraube,1,90.0,22.0,AUT,Cheap,Very Good,Not so much
+Austria,Pinot Blanc,20,89.66666666666667,26.458333333333332,AUT,Expensive,Very Good,Very Numerous
+Austria,Pinot Blanc-Chardonnay,1,90.0,23.0,AUT,Expensive,Very Good,Not so much
+Austria,Pinot Gris,9,90.5,24.7,AUT,Expensive,Very Good,Numerous
+Austria,Pinot Noir,78,90.43373493975903,37.036144578313255,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Red Blend,73,90.08536585365853,34.78048780487805,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Riesling,467,91.4959349593496,37.90447154471545,AUT,Very Expensive,Very Good,Very Numerous
+Austria,Rosé,50,88.01724137931035,15.39655172413793,AUT,Very cheap,Good,Very Numerous
+Austria,Roter Traminer,3,89.33333333333333,30.333333333333332,AUT,Expensive,Very Good,Numerous
+Austria,Roter Veltliner,7,90.0909090909091,41.36363636363637,AUT,Very Expensive,Very Good,Numerous
+Austria,Rotgipfler,16,90.0,27.2,AUT,Expensive,Very Good,Very Numerous
+Austria,Sauvignon,2,89.0,26.0,AUT,Expensive,Very Good,Not so much
+Austria,Sauvignon Blanc,86,89.50537634408602,29.387096774193548,AUT,Expensive,Very Good,Very Numerous
+Austria,Sauvignon Blanc-Chardonnay,2,91.5,34.5,AUT,Very Expensive,Very Good,Not so much
+Austria,Scheurebe,13,92.15384615384616,58.69230769230769,AUT,Very Expensive,Very Good,Numerous
+Austria,Shiraz,1,91.0,45.0,AUT,Very Expensive,Very Good,Not so much
+Austria,Sparkling Blend,28,89.80645161290323,32.12903225806452,AUT,Very Expensive,Very Good,Very Numerous
+Austria,St. Laurent,62,90.07042253521126,30.676056338028168,AUT,Expensive,Very Good,Very Numerous
+Austria,Syrah,1,89.0,13.0,AUT,Very cheap,Very Good,Not so much
+Austria,Sämling,2,88.5,35.5,AUT,Very Expensive,Good,Not so much
+Austria,Traminer,14,89.4375,32.75,AUT,Very Expensive,Very Good,Numerous
+Austria,Weissburgunder,23,89.76,25.68,AUT,Expensive,Very Good,Very Numerous
+Austria,Welschriesling,19,89.4,30.45,AUT,Expensive,Very Good,Very Numerous
+Austria,White Blend,50,90.4074074074074,31.25925925925926,AUT,Expensive,Very Good,Very Numerous
+Austria,Zierfandler,11,90.08333333333333,32.583333333333336,AUT,Very Expensive,Very Good,Numerous
+Austria,Zierfandler-Rotgipfler,4,90.75,23.75,AUT,Expensive,Very Good,Numerous
+Austria,Zweigelt,150,88.50574712643679,21.24137931034483,AUT,Cheap,Good,Very Numerous
+Bosnia and Herzegovina,Blatina,1,88.0,12.0,BIH,Very cheap,Good,Not so much
+Bosnia and Herzegovina,Vranec,1,85.0,13.0,BIH,Very cheap,Not good,Not so much
+Brazil,Bordeaux-style Red Blend,1,82.0,10.0,BRA,Very cheap,Not good,Not so much
+Brazil,Cabernet Sauvignon,4,83.0,26.5,BRA,Expensive,Not good,Numerous
+Brazil,Cabernet Sauvignon-Merlot,1,83.0,20.0,BRA,Cheap,Not good,Not so much
+Brazil,Champagne Blend,3,85.66666666666667,25.333333333333332,BRA,Expensive,Not good,Numerous
+Brazil,Chardonnay,5,83.8,25.0,BRA,Expensive,Not good,Numerous
+Brazil,Merlot,6,84.42857142857143,19.142857142857142,BRA,Cheap,Not good,Numerous
+Brazil,Merlot-Cabernet Sauvignon,2,85.5,39.0,BRA,Very Expensive,Not good,Not so much
+Brazil,Moscato,1,85.0,15.0,BRA,Very cheap,Not good,Not so much
+Brazil,Red Blend,3,85.33333333333333,35.666666666666664,BRA,Very Expensive,Not good,Numerous
+Brazil,Sparkling Blend,4,86.0,32.0,BRA,Very Expensive,Not good,Numerous
+Brazil,Tannat,4,83.6,13.8,BRA,Very cheap,Not good,Numerous
+Bulgaria,Bordeaux-style Red Blend,2,91.0,27.5,BGR,Expensive,Very Good,Not so much
+Bulgaria,Cabernet Franc,2,88.0,19.0,BGR,Cheap,Good,Not so much
+Bulgaria,Cabernet Sauvignon,17,87.85,11.15,BGR,Very cheap,Not so good,Very Numerous
+Bulgaria,Cabernet Sauvignon-Syrah,1,90.0,14.0,BGR,Very cheap,Very Good,Not so much
+Bulgaria,Chardonnay,16,88.5,13.8125,BGR,Very cheap,Good,Very Numerous
+Bulgaria,Gamza,1,89.0,11.0,BGR,Very cheap,Very Good,Not so much
+Bulgaria,Malbec,1,89.0,40.0,BGR,Very Expensive,Very Good,Not so much
+Bulgaria,Mavrud,7,87.85714285714286,14.142857142857142,BGR,Very cheap,Not so good,Numerous
+Bulgaria,Merlot,13,87.6923076923077,11.461538461538462,BGR,Very cheap,Not so good,Numerous
+Bulgaria,Merlot-Syrah,1,89.0,18.0,BGR,Cheap,Very Good,Not so much
+Bulgaria,Muscat,1,87.0,10.0,BGR,Very cheap,Not so good,Not so much
+Bulgaria,Muskat Ottonel,4,84.0,11.0,BGR,Very cheap,Not good,Numerous
+Bulgaria,Pinot Grigio,1,88.0,9.0,BGR,Very cheap,Good,Not so much
+Bulgaria,Pinot Noir,12,88.53333333333333,13.666666666666666,BGR,Very cheap,Good,Numerous
+Bulgaria,Red Blend,20,89.18181818181819,22.0,BGR,Cheap,Very Good,Very Numerous
+Bulgaria,Riesling,3,85.33333333333333,13.333333333333334,BGR,Very cheap,Not good,Numerous
+Bulgaria,Rosé,4,86.0,10.75,BGR,Very cheap,Not good,Numerous
+Bulgaria,Sauvignon Blanc,11,86.25,10.166666666666666,BGR,Very cheap,Not good,Numerous
+Bulgaria,Syrah,3,89.0,23.666666666666668,BGR,Expensive,Very Good,Numerous
+Bulgaria,Tamianka,1,89.0,20.0,BGR,Cheap,Very Good,Not so much
+Bulgaria,Traminer,4,86.0,10.5,BGR,Very cheap,Not good,Numerous
+Bulgaria,Viognier,3,89.0,14.666666666666666,BGR,Very cheap,Very Good,Numerous
+Bulgaria,White Blend,4,88.25,15.75,BGR,Very cheap,Good,Numerous
+Canada,Bordeaux-style Red Blend,13,90.46666666666667,48.4,CAN,Very Expensive,Very Good,Numerous
+Canada,Cabernet,1,88.0,40.0,CAN,Very Expensive,Good,Not so much
+Canada,Cabernet Franc,19,89.08333333333333,42.333333333333336,CAN,Very Expensive,Very Good,Very Numerous
+Canada,Cabernet Merlot,1,89.0,50.0,CAN,Very Expensive,Very Good,Not so much
+Canada,Cabernet Sauvignon,6,90.0,47.42857142857143,CAN,Very Expensive,Very Good,Numerous
+Canada,Cabernet Sauvignon-Syrah,1,88.0,40.0,CAN,Very Expensive,Good,Not so much
+Canada,Carmenère,1,90.0,50.0,CAN,Very Expensive,Very Good,Not so much
+Canada,Chardonnay,22,88.88461538461539,25.615384615384617,CAN,Expensive,Good,Very Numerous
+Canada,Chasselas,1,90.0,20.0,CAN,Cheap,Very Good,Not so much
+Canada,Chenin Blanc,1,90.0,19.0,CAN,Cheap,Very Good,Not so much
+Canada,Gamay Noir,1,88.0,24.0,CAN,Expensive,Good,Not so much
+Canada,Gewürztraminer,10,88.8,20.0,CAN,Cheap,Good,Numerous
+Canada,Gewürztraminer-Riesling,1,83.0,12.0,CAN,Very cheap,Not good,Not so much
+Canada,Malbec,1,92.0,32.0,CAN,Very Expensive,Very Good,Not so much
+Canada,Meritage,5,90.5,42.0,CAN,Very Expensive,Very Good,Numerous
+Canada,Merlot,10,89.0,30.0,CAN,Expensive,Very Good,Numerous
+Canada,Moscato,1,92.0,20.0,CAN,Cheap,Very Good,Not so much
+Canada,Muscat,1,91.0,18.0,CAN,Cheap,Very Good,Not so much
+Canada,Pinot Gris,3,90.25,19.0,CAN,Cheap,Very Good,Numerous
+Canada,Pinot Noir,21,88.52173913043478,33.08695652173913,CAN,Very Expensive,Good,Very Numerous
+Canada,Red Blend,5,90.6,29.2,CAN,Expensive,Very Good,Numerous
+Canada,Rhône-style White Blend,2,91.0,25.0,CAN,Expensive,Very Good,Not so much
+Canada,Riesling,46,89.47058823529412,34.76470588235294,CAN,Very Expensive,Very Good,Very Numerous
+Canada,Rosé,3,87.0,20.0,CAN,Cheap,Not so good,Numerous
+Canada,Sauvignon Blanc,9,88.4,21.7,CAN,Cheap,Good,Numerous
+Canada,Syrah,10,91.14285714285714,47.357142857142854,CAN,Very Expensive,Very Good,Numerous
+Canada,Vidal,7,90.75,45.125,CAN,Very Expensive,Very Good,Numerous
+Canada,Vidal Blanc,14,89.26666666666667,60.6,CAN,Very Expensive,Very Good,Numerous
+Canada,Viognier,2,87.5,24.0,CAN,Expensive,Not so good,Not so much
+Canada,White Blend,5,87.8,20.4,CAN,Cheap,Not so good,Numerous
+Chile,Bordeaux-style Red Blend,37,90.13513513513513,51.513513513513516,CHL,Very Expensive,Very Good,Very Numerous
+Chile,Cabernet Blend,26,88.96428571428571,50.32142857142857,CHL,Very Expensive,Good,Very Numerous
+Chile,Cabernet Franc,35,87.24324324324324,23.91891891891892,CHL,Expensive,Not so good,Very Numerous
+Chile,Cabernet Franc-Carmenère,2,86.0,12.0,CHL,Very cheap,Not good,Not so much
+Chile,Cabernet Sauvignon,708,86.68766404199475,20.010498687664043,CHL,Cheap,Not so good,Very Numerous
+Chile,Cabernet Sauvignon-Cabernet Franc,5,89.6,28.0,CHL,Expensive,Very Good,Numerous
+Chile,Cabernet Sauvignon-Carmenère,38,87.3076923076923,23.487179487179485,CHL,Expensive,Not so good,Very Numerous
+Chile,Cabernet Sauvignon-Malbec,3,85.66666666666667,16.333333333333332,CHL,Very cheap,Not good,Numerous
+Chile,Cabernet Sauvignon-Merlot,20,85.9,18.4,CHL,Cheap,Not good,Very Numerous
+Chile,Cabernet Sauvignon-Syrah,22,86.58333333333333,18.208333333333332,CHL,Cheap,Not so good,Very Numerous
+Chile,Carignan,43,87.93617021276596,24.340425531914892,CHL,Expensive,Not so good,Very Numerous
+Chile,Carmenère,481,86.4642166344294,20.290135396518377,CHL,Cheap,Not so good,Very Numerous
+Chile,Carmenère-Cabernet Sauvignon,6,88.85714285714286,27.142857142857142,CHL,Expensive,Good,Numerous
+Chile,Carmenère-Syrah,6,87.14285714285714,23.0,CHL,Expensive,Not so good,Numerous
+Chile,Chardonnay,476,85.14990138067061,15.264299802761341,CHL,Very cheap,Not good,Very Numerous
+Chile,Chardonnay-Viognier,5,83.5,12.0,CHL,Very cheap,Not good,Numerous
+Chile,Cinsault,4,88.5,26.75,CHL,Expensive,Good,Numerous
+Chile,Gewürztraminer,20,84.85,14.5,CHL,Very cheap,Not good,Very Numerous
+Chile,Gewürztraminer-Riesling,1,88.0,11.0,CHL,Very cheap,Good,Not so much
+Chile,Malbec,131,86.59154929577464,19.02112676056338,CHL,Cheap,Not so good,Very Numerous
+Chile,Malbec-Cabernet Sauvignon,1,86.0,15.0,CHL,Very cheap,Not good,Not so much
+Chile,Malbec-Carménère,1,91.0,43.0,CHL,Very Expensive,Very Good,Not so much
+Chile,Malbec-Syrah,1,84.0,13.0,CHL,Very cheap,Not good,Not so much
+Chile,Merlot,243,85.2578125,12.92578125,CHL,Very cheap,Not good,Very Numerous
+Chile,Merlot-Cabernet,1,86.0,15.0,CHL,Very cheap,Not good,Not so much
+Chile,Moscatel,1,88.0,13.0,CHL,Very cheap,Good,Not so much
+Chile,Moscato,3,81.0,7.0,CHL,Very cheap,Not good,Numerous
+Chile,Mourvèdre,1,92.0,30.0,CHL,Expensive,Very Good,Not so much
+Chile,Muscat,3,86.0,21.666666666666668,CHL,Cheap,Not good,Numerous
+Chile,Muscat d'Alexandrie,1,84.0,15.0,CHL,Very cheap,Not good,Not so much
+Chile,Muscatel,1,88.0,15.0,CHL,Very cheap,Good,Not so much
+Chile,País,1,83.0,18.0,CHL,Cheap,Not good,Not so much
+Chile,Pedro Ximénez,6,84.14285714285714,10.714285714285714,CHL,Very cheap,Not good,Numerous
+Chile,Petit Verdot,6,88.83333333333333,52.166666666666664,CHL,Very Expensive,Good,Numerous
+Chile,Petite Sirah,3,87.75,31.25,CHL,Expensive,Not so good,Numerous
+Chile,Pinot Grigio,5,83.0,11.8,CHL,Very cheap,Not good,Numerous
+Chile,Pinot Noir,332,85.93539325842697,19.126404494382022,CHL,Cheap,Not good,Very Numerous
+Chile,Pinot Noir-Syrah,1,83.0,12.0,CHL,Very cheap,Not good,Not so much
+Chile,Red Blend,376,88.92786069651741,39.656716417910445,CHL,Very Expensive,Good,Very Numerous
+Chile,Rhône-style Red Blend,1,90.0,23.0,CHL,Expensive,Very Good,Not so much
+Chile,Rhône-style White Blend,1,87.0,15.0,CHL,Very cheap,Not so good,Not so much
+Chile,Riesling,19,86.0,16.454545454545453,CHL,Very cheap,Not good,Very Numerous
+Chile,Rosé,40,84.23255813953489,12.930232558139535,CHL,Very cheap,Not good,Very Numerous
+Chile,Sauvignon Blanc,631,85.97325408618127,14.029717682020802,CHL,Very cheap,Not good,Very Numerous
+Chile,Sauvignon Blanc-Semillon,1,88.0,12.0,CHL,Very cheap,Good,Not so much
+Chile,Sauvignon Gris,9,84.5,18.9,CHL,Cheap,Not good,Numerous
+Chile,Shiraz,19,86.45454545454545,18.136363636363637,CHL,Cheap,Not so good,Very Numerous
+Chile,Shiraz-Cabernet Sauvignon,1,83.0,9.0,CHL,Very cheap,Not good,Not so much
+Chile,Syrah,247,88.0,28.462962962962962,CHL,Expensive,Good,Very Numerous
+Chile,Syrah-Cabernet,6,87.33333333333333,17.333333333333332,CHL,Cheap,Not so good,Numerous
+Chile,Syrah-Cabernet Franc,1,91.0,60.0,CHL,Very Expensive,Very Good,Not so much
+Chile,Syrah-Cabernet Sauvignon,5,87.0,24.166666666666668,CHL,Expensive,Not so good,Numerous
+Chile,Syrah-Carignan,1,92.0,35.0,CHL,Very Expensive,Very Good,Not so much
+Chile,Syrah-Merlot,1,89.0,20.0,CHL,Cheap,Very Good,Not so much
+Chile,Sémillon,2,87.0,16.0,CHL,Very cheap,Not so good,Not so much
+Chile,Tempranillo,2,85.5,18.0,CHL,Cheap,Not good,Not so much
+Chile,Torontel,1,92.0,40.0,CHL,Very Expensive,Very Good,Not so much
+Chile,Viognier,23,84.73913043478261,13.130434782608695,CHL,Very cheap,Not good,Very Numerous
+Chile,Viognier-Chardonnay,5,84.0,14.6,CHL,Very cheap,Not good,Numerous
+Chile,White Blend,26,84.37037037037037,15.814814814814815,CHL,Very cheap,Not good,Very Numerous
+China,Cabernet Blend,1,89.0,18.0,CHN,Cheap,Very Good,Not so much
+Croatia,Babić,4,88.5,35.0,HRV,Very Expensive,Good,Numerous
+Croatia,Blaufränkisch,1,84.0,13.0,HRV,Very cheap,Not good,Not so much
+Croatia,Bordeaux-style Red Blend,1,88.0,13.0,HRV,Very cheap,Good,Not so much
+Croatia,Debit,1,89.0,35.0,HRV,Very Expensive,Very Good,Not so much
+Croatia,Graševina,1,89.0,20.0,HRV,Cheap,Very Good,Not so much
+Croatia,Grenache,1,88.0,19.0,HRV,Cheap,Good,Not so much
+Croatia,Malvasia,8,87.5,18.5,HRV,Cheap,Not so good,Numerous
+Croatia,Malvasia Istriana,3,87.75,17.25,HRV,Cheap,Not so good,Numerous
+Croatia,Muscat,1,88.0,15.0,HRV,Very cheap,Good,Not so much
+Croatia,Pinot Noir,1,84.0,13.0,HRV,Very cheap,Not good,Not so much
+Croatia,Plavac Mali,16,87.58823529411765,34.0,HRV,Very Expensive,Not so good,Very Numerous
+Croatia,Posip,7,87.875,25.125,HRV,Expensive,Not so good,Numerous
+Croatia,Red Blend,5,87.0,18.6,HRV,Cheap,Not so good,Numerous
+Croatia,Rosé,2,85.0,21.0,HRV,Cheap,Not good,Not so much
+Croatia,Teran,5,87.6,27.8,HRV,Expensive,Not so good,Numerous
+Croatia,Traminer,1,87.0,13.0,HRV,Very cheap,Not so good,Not so much
+Croatia,Welschriesling,2,84.5,14.0,HRV,Very cheap,Not good,Not so much
+Croatia,White Blend,4,85.75,31.0,HRV,Expensive,Not good,Numerous
+Croatia,Zlahtina,2,86.0,14.5,HRV,Very cheap,Not good,Not so much
+Croatia,Zweigelt,1,90.0,25.0,HRV,Expensive,Very Good,Not so much
+Cyprus,Red Blend,2,86.0,17.0,CYP,Cheap,Not good,Not so much
+Cyprus,White Blend,4,87.0,14.2,CYP,Very cheap,Not so good,Numerous
+Cyprus,Xinisteri,1,89.0,20.0,CYP,Cheap,Very Good,Not so much
+Cyprus,Xynisteri,2,87.0,18.5,CYP,Cheap,Not so good,Not so much
+Czech Republic,Cabernet Moravia,1,88.0,18.0,CZE,Cheap,Good,Not so much
+Czech Republic,Frankovka,1,88.0,24.0,CZE,Expensive,Good,Not so much
+Czech Republic,Red Blend,1,89.0,45.0,CZE,Very Expensive,Very Good,Not so much
+Czech Republic,Riesling,1,88.0,15.0,CZE,Very cheap,Good,Not so much
+Czech Republic,Rivaner,1,87.0,15.0,CZE,Very cheap,Not so good,Not so much
+Czech Republic,Ryzlink Rýnský,1,89.0,40.0,CZE,Very Expensive,Very Good,Not so much
+Czech Republic,Sauvignon Blanc,2,85.5,15.5,CZE,Very cheap,Not good,Not so much
+Czech Republic,St. Laurent,1,88.0,15.0,CZE,Very cheap,Good,Not so much
+Czech Republic,Welschriesling,1,85.0,25.0,CZE,Expensive,Not good,Not so much
+England,Chardonnay,13,92.1875,54.0625,GBR,Very Expensive,Very Good,Numerous
+England,Pinot Noir,5,91.66666666666667,51.333333333333336,GBR,Very Expensive,Very Good,Numerous
+England,Sparkling Blend,29,91.48484848484848,51.78787878787879,GBR,Very Expensive,Very Good,Very Numerous
+France,Abouriou,2,89.0,15.0,FRA,Very cheap,Very Good,Not so much
+France,Aligoté,18,86.26315789473684,18.894736842105264,FRA,Cheap,Not good,Very Numerous
+France,Alsace white blend,46,90.51063829787235,30.085106382978722,FRA,Expensive,Very Good,Very Numerous
+France,Altesse,6,88.75,17.875,FRA,Cheap,Good,Numerous
+France,Auxerrois,7,89.14285714285714,24.571428571428573,FRA,Expensive,Very Good,Numerous
+France,Bordeaux-style Red Blend,2925,88.15847511027096,40.88815374921235,FRA,Very Expensive,Good,Very Numerous
+France,Bordeaux-style White Blend,592,87.87538461538462,34.99076923076923,FRA,Very Expensive,Not so good,Very Numerous
+France,Braucol,5,90.6,27.0,FRA,Expensive,Very Good,Numerous
+France,Cabernet,1,85.0,13.0,FRA,Very cheap,Not good,Not so much
+France,Cabernet Blend,1,84.0,13.0,FRA,Very cheap,Not good,Not so much
+France,Cabernet Franc,121,88.57575757575758,24.984848484848484,FRA,Expensive,Good,Very Numerous
+France,Cabernet Franc-Cabernet Sauvignon,10,89.7,24.9,FRA,Expensive,Very Good,Numerous
+France,Cabernet Merlot,1,85.0,12.0,FRA,Very cheap,Not good,Not so much
+France,Cabernet Sauvignon,45,85.61224489795919,18.612244897959183,FRA,Cheap,Not good,Very Numerous
+France,Cabernet Sauvignon-Merlot,3,85.0,9.666666666666666,FRA,Very cheap,Not good,Numerous
+France,Cabernet Sauvignon-Syrah,2,88.0,13.5,FRA,Very cheap,Good,Not so much
+France,Cabernet-Syrah,4,89.6,29.8,FRA,Expensive,Very Good,Numerous
+France,Carcajolu,1,88.0,21.0,FRA,Cheap,Good,Not so much
+France,Carignan,4,87.6,20.4,FRA,Cheap,Not so good,Numerous
+France,Carignan-Grenache,1,90.0,17.0,FRA,Cheap,Very Good,Not so much
+France,Carignan-Syrah,2,91.0,59.0,FRA,Very Expensive,Very Good,Not so much
+France,Champagne Blend,323,92.26376811594203,112.67246376811595,FRA,Very Expensive,Very Good,Very Numerous
+France,Chardonnay,1886,89.20991253644316,56.6865889212828,FRA,Very Expensive,Very Good,Very Numerous
+France,Chardonnay-Pinot Gris,1,85.0,17.0,FRA,Cheap,Not good,Not so much
+France,Chardonnay-Sauvignon,3,86.66666666666667,15.333333333333334,FRA,Very cheap,Not so good,Numerous
+France,Chardonnay-Sauvignon Blanc,1,88.0,16.0,FRA,Very cheap,Good,Not so much
+France,Chardonnay-Viognier,8,86.4,13.5,FRA,Very cheap,Not so good,Numerous
+France,Chasselas,5,88.6,20.8,FRA,Cheap,Good,Numerous
+France,Chenin Blanc,198,89.08450704225352,28.272300469483568,FRA,Expensive,Very Good,Very Numerous
+France,Chenin Blanc-Chardonnay,11,89.0909090909091,15.090909090909092,FRA,Very cheap,Very Good,Numerous
+France,Cinsault,3,86.0,14.333333333333334,FRA,Very cheap,Not good,Numerous
+France,Clairette,1,88.0,12.0,FRA,Very cheap,Good,Not so much
+France,Colombard,10,85.63636363636364,9.636363636363637,FRA,Very cheap,Not good,Numerous
+France,Colombard-Sauvignon Blanc,14,85.46666666666667,11.0,FRA,Very cheap,Not good,Numerous
+France,Colombard-Ugni Blanc,7,85.125,10.25,FRA,Very cheap,Not good,Numerous
+France,Duras,6,88.16666666666667,21.333333333333332,FRA,Cheap,Good,Numerous
+France,Edelzwicker,1,90.0,19.0,FRA,Cheap,Very Good,Not so much
+France,Fer Servadou,2,87.0,16.5,FRA,Very cheap,Not so good,Not so much
+France,Folle Blanche,1,85.0,16.0,FRA,Very cheap,Not good,Not so much
+France,G-S-M,6,89.0,22.833333333333332,FRA,Cheap,Very Good,Numerous
+France,Gamay,740,88.22037914691943,20.672985781990523,FRA,Cheap,Good,Very Numerous
+France,Gamay Noir,2,87.0,18.5,FRA,Cheap,Not so good,Not so much
+France,Gewürztraminer,388,89.63679245283019,34.33018867924528,FRA,Very Expensive,Very Good,Very Numerous
+France,Grenache,18,87.5909090909091,30.09090909090909,FRA,Expensive,Not so good,Very Numerous
+France,Grenache Blanc,2,91.5,35.5,FRA,Very Expensive,Very Good,Not so much
+France,Grenache Gris,1,87.0,22.0,FRA,Cheap,Not so good,Not so much
+France,Grenache Noir,1,86.0,9.0,FRA,Very cheap,Not good,Not so much
+France,Grenache-Carignan,2,89.5,20.0,FRA,Cheap,Very Good,Not so much
+France,Grenache-Mourvèdre,1,92.0,60.0,FRA,Very Expensive,Very Good,Not so much
+France,Grenache-Syrah,20,87.7,18.45,FRA,Cheap,Not so good,Very Numerous
+France,Grolleau,2,87.33333333333333,39.333333333333336,FRA,Very Expensive,Not so good,Not so much
+France,Gros Manseng,18,88.0952380952381,17.714285714285715,FRA,Cheap,Good,Very Numerous
+France,Gros Plant,1,86.0,16.0,FRA,Very cheap,Not good,Not so much
+France,Gros and Petit Manseng,36,89.64285714285714,20.928571428571427,FRA,Cheap,Very Good,Very Numerous
+France,Jacquère,22,87.6086956521739,16.869565217391305,FRA,Very cheap,Not so good,Very Numerous
+France,Loin de l'Oeil,6,90.83333333333333,27.333333333333332,FRA,Expensive,Very Good,Numerous
+France,Malbec,370,89.67581047381546,33.66334164588529,FRA,Very Expensive,Very Good,Very Numerous
+France,Malbec-Cabernet Franc,1,85.0,30.0,FRA,Expensive,Not good,Not so much
+France,Malbec-Merlot,65,88.625,18.90277777777778,FRA,Cheap,Good,Very Numerous
+France,Malbec-Tannat,9,92.27272727272727,30.272727272727273,FRA,Expensive,Very Good,Numerous
+France,Mansois,3,87.33333333333333,17.0,FRA,Cheap,Not so good,Numerous
+France,Marsanne,19,88.85714285714286,44.476190476190474,FRA,Very Expensive,Good,Very Numerous
+France,Marsanne-Roussanne,3,88.66666666666667,41.666666666666664,FRA,Very Expensive,Good,Numerous
+France,Marselan,1,87.0,12.0,FRA,Very cheap,Not so good,Not so much
+France,Mauzac,4,88.0,17.25,FRA,Cheap,Good,Numerous
+France,Melon,219,88.56846473029046,17.21161825726141,FRA,Cheap,Good,Very Numerous
+France,Merlot,96,86.60576923076923,24.673076923076923,FRA,Expensive,Not so good,Very Numerous
+France,Merlot-Cabernet,1,88.0,12.0,FRA,Very cheap,Good,Not so much
+France,Merlot-Cabernet Franc,1,88.0,23.0,FRA,Expensive,Good,Not so much
+France,Merlot-Cabernet Sauvignon,7,86.71428571428571,12.714285714285714,FRA,Very cheap,Not so good,Numerous
+France,Merlot-Grenache,1,89.0,10.0,FRA,Very cheap,Very Good,Not so much
+France,Merlot-Malbec,2,86.5,13.5,FRA,Very cheap,Not so good,Not so much
+France,Merlot-Tannat,3,89.33333333333333,18.333333333333332,FRA,Cheap,Very Good,Numerous
+France,Mondeuse,10,86.9,21.0,FRA,Cheap,Not so good,Numerous
+France,Moscato,2,85.5,7.5,FRA,Very cheap,Not good,Not so much
+France,Mourvèdre,5,91.6,41.0,FRA,Very Expensive,Very Good,Numerous
+France,Muscadel,1,88.0,30.0,FRA,Expensive,Good,Not so much
+France,Muscadelle,4,90.25,37.5,FRA,Very Expensive,Very Good,Numerous
+France,Muscat,42,89.53488372093024,30.651162790697676,FRA,Expensive,Very Good,Very Numerous
+France,Muscat d'Alexandrie,1,88.0,16.0,FRA,Very cheap,Good,Not so much
+France,Negrette,13,87.92857142857143,18.857142857142858,FRA,Cheap,Not so good,Numerous
+France,Nielluciu,2,89.0,23.0,FRA,Expensive,Very Good,Not so much
+France,Ondenc,1,90.0,15.0,FRA,Very cheap,Very Good,Not so much
+France,Petit Courbu,1,88.0,19.0,FRA,Cheap,Good,Not so much
+France,Petit Manseng,28,92.0,32.96551724137931,FRA,Very Expensive,Very Good,Very Numerous
+France,Petit Verdot,1,92.0,40.0,FRA,Very Expensive,Very Good,Not so much
+France,Petite Verdot,1,84.0,25.0,FRA,Expensive,Not good,Not so much
+France,Picpoul,8,86.0,13.555555555555555,FRA,Very cheap,Not good,Numerous
+France,Pinot Auxerrois,8,87.33333333333333,27.666666666666668,FRA,Expensive,Not so good,Numerous
+France,Pinot Blanc,123,87.23188405797102,19.043478260869566,FRA,Cheap,Not so good,Very Numerous
+France,Pinot Gris,364,89.83415841584159,33.586633663366335,FRA,Very Expensive,Very Good,Very Numerous
+France,Pinot Meunier,2,92.5,82.0,FRA,Very Expensive,Very Good,Not so much
+France,Pinot Noir,1352,89.84131326949384,85.04240766073872,FRA,Very Expensive,Very Good,Very Numerous
+France,Pinot Noir-Gamay,14,85.6,18.2,FRA,Cheap,Not good,Numerous
+France,Poulsard,3,87.33333333333333,26.0,FRA,Expensive,Not so good,Numerous
+France,Provence red blend,47,90.11864406779661,29.93220338983051,FRA,Expensive,Very Good,Very Numerous
+France,Provence white blend,27,88.0,23.647058823529413,FRA,Expensive,Good,Very Numerous
+France,Prunelard,1,91.0,23.0,FRA,Expensive,Very Good,Not so much
+France,Red Blend,236,88.20075757575758,22.5,FRA,Cheap,Good,Very Numerous
+France,Rhône-style Red Blend,623,88.85882352941177,32.95294117647059,FRA,Very Expensive,Good,Very Numerous
+France,Rhône-style White Blend,177,88.35263157894737,38.136842105263156,FRA,Very Expensive,Good,Very Numerous
+France,Riesling,577,90.66460587326121,32.41112828438949,FRA,Very Expensive,Very Good,Very Numerous
+France,Rolle,4,88.25,22.25,FRA,Cheap,Good,Numerous
+France,Romorantin,3,90.66666666666667,23.333333333333332,FRA,Expensive,Very Good,Numerous
+France,Rosé,1519,87.29223473621813,19.483106105512743,FRA,Cheap,Not so good,Very Numerous
+France,Roussanne,10,89.0909090909091,31.09090909090909,FRA,Expensive,Very Good,Numerous
+France,Roussanne-Marsanne,1,91.0,40.0,FRA,Very Expensive,Very Good,Not so much
+France,Sacy,1,87.0,19.0,FRA,Cheap,Not so good,Not so much
+France,Sauvignon,3,89.0,21.666666666666668,FRA,Cheap,Very Good,Numerous
+France,Sauvignon Blanc,748,88.42041312272175,26.643985419198057,FRA,Expensive,Good,Very Numerous
+France,Sauvignon Blanc-Chardonnay,2,88.5,18.0,FRA,Cheap,Good,Not so much
+France,Sauvignon Blanc-Semillon,1,86.0,12.0,FRA,Very cheap,Not good,Not so much
+France,Sauvignon Gris,1,87.0,14.0,FRA,Very cheap,Not so good,Not so much
+France,Sauvignon-Sémillon,1,86.0,12.0,FRA,Very cheap,Not good,Not so much
+France,Savagnin,13,90.23076923076923,48.15384615384615,FRA,Very Expensive,Very Good,Numerous
+France,Sciaccerellu,2,88.66666666666667,37.333333333333336,FRA,Very Expensive,Good,Not so much
+France,Semillon-Sauvignon Blanc,1,86.0,15.0,FRA,Very cheap,Not good,Not so much
+France,Shiraz,2,87.5,21.0,FRA,Cheap,Not so good,Not so much
+France,Sparkling Blend,46,89.33333333333333,27.462962962962962,FRA,Expensive,Very Good,Very Numerous
+France,Sylvaner,28,88.33333333333333,21.545454545454547,FRA,Cheap,Good,Very Numerous
+France,Syrah,144,89.89308176100629,56.65408805031446,FRA,Very Expensive,Very Good,Very Numerous
+France,Syrah-Cabernet,1,86.0,24.0,FRA,Expensive,Not good,Not so much
+France,Syrah-Carignan,3,89.0,18.666666666666668,FRA,Cheap,Very Good,Numerous
+France,Syrah-Grenache,14,88.78571428571429,17.214285714285715,FRA,Cheap,Good,Numerous
+France,Syrah-Merlot,1,86.0,11.0,FRA,Very cheap,Not good,Not so much
+France,Syrah-Mourvèdre,2,90.5,20.5,FRA,Cheap,Very Good,Not so much
+France,Syrah-Viognier,3,89.5,66.0,FRA,Very Expensive,Very Good,Numerous
+France,Sémillon,6,86.83333333333333,15.166666666666666,FRA,Very cheap,Not so good,Numerous
+France,Tannat,48,91.58490566037736,35.58490566037736,FRA,Very Expensive,Very Good,Very Numerous
+France,Tannat-Cabernet,23,90.33333333333333,20.333333333333332,FRA,Cheap,Very Good,Very Numerous
+France,Tannat-Cabernet Franc,12,91.07142857142857,21.714285714285715,FRA,Cheap,Very Good,Numerous
+France,Tannat-Merlot,3,88.33333333333333,19.333333333333332,FRA,Cheap,Good,Numerous
+France,Tannat-Syrah,3,87.0,10.0,FRA,Very cheap,Not so good,Numerous
+France,Tokay Pinot Gris,1,89.0,30.0,FRA,Expensive,Very Good,Not so much
+France,Trousseau,5,87.0,33.2,FRA,Very Expensive,Not so good,Numerous
+France,Ugni Blanc-Colombard,9,85.77777777777777,10.88888888888889,FRA,Very cheap,Not good,Numerous
+France,Vermentino,15,88.0,24.235294117647058,FRA,Expensive,Good,Very Numerous
+France,Viognier,57,89.203125,55.625,FRA,Very Expensive,Very Good,Very Numerous
+France,Viognier-Chardonnay,1,88.0,17.0,FRA,Cheap,Good,Not so much
+France,White Blend,193,87.28708133971291,18.550239234449762,FRA,Cheap,Not so good,Very Numerous
+Georgia,Chinuri,2,85.5,23.0,GEO,Expensive,Not good,Not so much
+Georgia,Kisi,5,87.33333333333333,20.166666666666668,GEO,Cheap,Not so good,Numerous
+Georgia,Mtsvane,3,88.0,17.666666666666668,GEO,Cheap,Good,Numerous
+Georgia,Red Blend,3,88.75,18.0,GEO,Cheap,Good,Numerous
+Georgia,Rkatsiteli,18,86.95,20.85,GEO,Cheap,Not so good,Very Numerous
+Georgia,Rosé,1,86.0,12.0,GEO,Very cheap,Not good,Not so much
+Georgia,Saperavi,28,88.59375,20.75,GEO,Cheap,Good,Very Numerous
+Georgia,Saperavi-Merlot,2,87.0,17.5,GEO,Cheap,Not so good,Not so much
+Georgia,Sparkling Blend,2,85.5,15.0,GEO,Very cheap,Not good,Not so much
+Georgia,White Blend,8,87.22222222222223,12.11111111111111,GEO,Very cheap,Not so good,Numerous
+Germany,Auxerrois,2,89.0,19.5,DEU,Cheap,Very Good,Not so much
+Germany,Chardonnay,4,89.4,27.6,DEU,Expensive,Very Good,Numerous
+Germany,Chardonnay Weissburgunder,1,90.0,25.0,DEU,Expensive,Very Good,Not so much
+Germany,Chardonnay-Pinot Blanc,1,87.0,25.0,DEU,Expensive,Not so good,Not so much
+Germany,Dornfelder,21,85.9090909090909,12.863636363636363,DEU,Very cheap,Not good,Very Numerous
+Germany,Elbling,3,87.75,16.0,DEU,Very cheap,Not so good,Numerous
+Germany,Früburgunder,1,90.0,40.0,DEU,Very Expensive,Very Good,Not so much
+Germany,Gewürztraminer,33,87.94594594594595,16.43243243243243,DEU,Very cheap,Not so good,Very Numerous
+Germany,Gewürztraminer-Riesling,1,86.0,25.0,DEU,Expensive,Not good,Not so much
+Germany,Grauburgunder,6,88.16666666666667,20.166666666666668,DEU,Cheap,Good,Numerous
+Germany,Lemberger,4,87.8,35.0,DEU,Very Expensive,Not so good,Numerous
+Germany,Muskateller,4,87.0,26.75,DEU,Expensive,Not so good,Numerous
+Germany,Pinot Blanc,19,88.85714285714286,20.238095238095237,DEU,Cheap,Good,Very Numerous
+Germany,Pinot Grigio,3,88.0,13.0,DEU,Very cheap,Good,Numerous
+Germany,Pinot Gris,11,87.63636363636364,20.0,DEU,Cheap,Not so good,Numerous
+Germany,Pinot Noir,53,89.43636363636364,31.381818181818183,DEU,Expensive,Very Good,Very Numerous
+Germany,Red Blend,8,86.75,20.125,DEU,Cheap,Not so good,Numerous
+Germany,Rieslaner,3,88.75,39.0,DEU,Very Expensive,Good,Numerous
+Germany,Riesling,1606,90.08176100628931,44.347627215551746,DEU,Very Expensive,Very Good,Very Numerous
+Germany,Rivaner,2,86.5,17.0,DEU,Cheap,Not so good,Not so much
+Germany,Rosé,11,89.0,20.90909090909091,DEU,Cheap,Very Good,Numerous
+Germany,Scheurebe,8,88.25,20.125,DEU,Cheap,Good,Numerous
+Germany,Schwartzriesling,1,90.0,25.0,DEU,Expensive,Very Good,Not so much
+Germany,Silvaner,32,88.55555555555556,46.888888888888886,DEU,Very Expensive,Good,Very Numerous
+Germany,Silvaner-Traminer,1,86.0,25.0,DEU,Expensive,Not good,Not so much
+Germany,Sparkling Blend,5,89.57142857142857,30.428571428571427,DEU,Expensive,Very Good,Numerous
+Germany,Spätburgunder,65,90.05714285714286,60.97142857142857,DEU,Very Expensive,Very Good,Very Numerous
+Germany,St. Laurent,2,87.33333333333333,37.666666666666664,DEU,Very Expensive,Not so good,Not so much
+Germany,Traminer,1,88.0,48.0,DEU,Very Expensive,Good,Not so much
+Germany,Trollinger,2,90.5,21.5,DEU,Cheap,Very Good,Not so much
+Germany,Weissburgunder,13,89.35714285714286,27.071428571428573,DEU,Expensive,Very Good,Numerous
+Germany,White Blend,8,87.66666666666667,16.11111111111111,DEU,Very cheap,Not so good,Numerous
+Greece,Agiorgitiko,56,87.03174603174604,23.571428571428573,GRC,Expensive,Not so good,Very Numerous
+Greece,Aidani,1,82.0,27.0,GRC,Expensive,Not good,Not so much
+Greece,Assyrtico,39,88.04651162790698,23.53488372093023,GRC,Expensive,Good,Very Numerous
+Greece,Assyrtiko,15,89.17647058823529,23.235294117647058,GRC,Expensive,Very Good,Very Numerous
+Greece,Athiri,1,83.0,18.0,GRC,Cheap,Not good,Not so much
+Greece,Cabernet Blend,1,85.0,30.0,GRC,Expensive,Not good,Not so much
+Greece,Cabernet Sauvignon,6,86.0,20.833333333333332,GRC,Cheap,Not good,Numerous
+Greece,Cabernet Sauvignon Grenache,1,87.0,23.0,GRC,Expensive,Not so good,Not so much
+Greece,Cabernet Sauvignon-Merlot,3,88.33333333333333,21.333333333333332,GRC,Cheap,Good,Numerous
+Greece,Cabernet Sauvignon-Syrah,1,88.0,19.0,GRC,Cheap,Good,Not so much
+Greece,Chardonnay,14,87.53333333333333,25.6,GRC,Expensive,Not so good,Numerous
+Greece,Dafni,1,85.0,20.0,GRC,Cheap,Not good,Not so much
+Greece,Kotsifali,1,92.0,13.0,GRC,Very cheap,Very Good,Not so much
+Greece,Malagousia,9,88.5,20.583333333333332,GRC,Cheap,Good,Numerous
+Greece,Malagouzia,4,88.5,20.0,GRC,Cheap,Good,Numerous
+Greece,Malagouzia-Chardonnay,1,86.0,8.0,GRC,Very cheap,Not good,Not so much
+Greece,Mandilaria,1,90.0,25.0,GRC,Expensive,Very Good,Not so much
+Greece,Mavrodaphne,1,88.0,30.0,GRC,Expensive,Good,Not so much
+Greece,Mavrokalavryta,1,86.0,15.0,GRC,Very cheap,Not good,Not so much
+Greece,Mavrotragano,1,90.0,50.0,GRC,Very Expensive,Very Good,Not so much
+Greece,Mavroudi,1,87.0,12.0,GRC,Very cheap,Not so good,Not so much
+Greece,Merlot,5,88.16666666666667,39.166666666666664,GRC,Very Expensive,Good,Numerous
+Greece,Moschofilero,30,88.17142857142858,15.142857142857142,GRC,Very cheap,Good,Very Numerous
+Greece,Moschofilero-Chardonnay,1,85.0,13.0,GRC,Very cheap,Not good,Not so much
+Greece,Muscat,4,86.5,21.75,GRC,Cheap,Not so good,Numerous
+Greece,Muscat of Alexandria,2,85.0,16.5,GRC,Very cheap,Not good,Not so much
+Greece,Plyto,2,87.0,19.5,GRC,Cheap,Not so good,Not so much
+Greece,Red Blend,60,87.17460317460318,29.26984126984127,GRC,Expensive,Not so good,Very Numerous
+Greece,Robola,4,87.75,23.0,GRC,Expensive,Not so good,Numerous
+Greece,Roditis,4,86.5,16.75,GRC,Very cheap,Not so good,Numerous
+Greece,Roditis-Moschofilero,1,88.0,11.0,GRC,Very cheap,Good,Not so much
+Greece,Rosé,12,87.16666666666667,17.333333333333332,GRC,Cheap,Not so good,Numerous
+Greece,Sauvignon Blanc,6,86.33333333333333,25.0,GRC,Expensive,Not so good,Numerous
+Greece,Sauvignon Blanc-Assyrtiko,1,92.0,20.0,GRC,Cheap,Very Good,Not so much
+Greece,Savatiano,2,88.0,17.5,GRC,Cheap,Good,Not so much
+Greece,Sideritis,1,85.0,23.0,GRC,Expensive,Not good,Not so much
+Greece,Syrah,5,86.6,21.6,GRC,Cheap,Not so good,Numerous
+Greece,Tannat,1,88.0,21.0,GRC,Cheap,Good,Not so much
+Greece,Thrapsathiri,1,88.0,25.0,GRC,Expensive,Good,Not so much
+Greece,Traminer,2,84.5,17.5,GRC,Cheap,Not good,Not so much
+Greece,Vilana,4,86.5,14.5,GRC,Very cheap,Not so good,Numerous
+Greece,Viognier,5,86.8,33.0,GRC,Very Expensive,Not so good,Numerous
+Greece,White Blend,64,87.04347826086956,19.55072463768116,GRC,Cheap,Not so good,Very Numerous
+Greece,Xinomavro,29,86.78125,22.5625,GRC,Cheap,Not so good,Very Numerous
+Hungary,Blauburger,1,87.0,17.0,HUN,Cheap,Not so good,Not so much
+Hungary,Blauer Portugieser,1,86.0,15.0,HUN,Very cheap,Not good,Not so much
+Hungary,Blaufränkisch,1,85.0,12.0,HUN,Very cheap,Not good,Not so much
+Hungary,Bordeaux-style Red Blend,6,88.0,45.833333333333336,HUN,Very Expensive,Good,Numerous
+Hungary,Cabernet Blend,1,89.0,78.0,HUN,Very Expensive,Very Good,Not so much
+Hungary,Cabernet Franc,2,86.5,52.5,HUN,Very Expensive,Not so good,Not so much
+Hungary,Chardonnay,1,89.0,25.0,HUN,Expensive,Very Good,Not so much
+Hungary,Furmint,42,89.91836734693878,48.244897959183675,HUN,Very Expensive,Very Good,Very Numerous
+Hungary,Grüner Veltliner,1,87.0,11.0,HUN,Very cheap,Not so good,Not so much
+Hungary,Hárslevelü,2,89.5,28.0,HUN,Expensive,Very Good,Not so much
+Hungary,Irsai Oliver,1,87.0,13.0,HUN,Very cheap,Not so good,Not so much
+Hungary,Kadarka,2,88.0,24.0,HUN,Expensive,Good,Not so much
+Hungary,Kekfrankos,9,87.2,29.5,HUN,Expensive,Not so good,Numerous
+Hungary,Merlot,1,89.0,76.0,HUN,Very Expensive,Very Good,Not so much
+Hungary,Muscat,2,88.33333333333333,15.333333333333334,HUN,Very cheap,Good,Not so much
+Hungary,Muscat Blanc,1,90.0,18.0,HUN,Cheap,Very Good,Not so much
+Hungary,Pinot Gris,1,87.0,13.0,HUN,Very cheap,Not so good,Not so much
+Hungary,Pinot Noir,1,90.0,25.0,HUN,Expensive,Very Good,Not so much
+Hungary,Red Blend,7,87.25,34.875,HUN,Very Expensive,Not so good,Numerous
+Hungary,Rosé,3,87.0,18.0,HUN,Cheap,Not so good,Numerous
+Hungary,Syrah,2,88.5,25.0,HUN,Expensive,Good,Not so much
+Hungary,Tokaji,23,90.65217391304348,59.08695652173913,HUN,Very Expensive,Very Good,Very Numerous
+Hungary,White Blend,15,90.55555555555556,27.833333333333332,HUN,Expensive,Very Good,Very Numerous
+India,Chenin Blanc,2,89.0,10.666666666666666,IND,Very cheap,Very Good,Not so much
+India,Sauvignon Blanc,2,89.5,12.0,IND,Very cheap,Very Good,Not so much
+India,Shiraz,4,91.5,16.0,IND,Very cheap,Very Good,Numerous
+Israel,Argaman,3,88.33333333333333,40.666666666666664,ISR,Very Expensive,Good,Numerous
+Israel,Barbera,3,85.33333333333333,22.0,ISR,Cheap,Not good,Numerous
+Israel,Bordeaux-style Red Blend,36,89.5,49.6,ISR,Very Expensive,Very Good,Very Numerous
+Israel,Cabernet Blend,1,87.0,65.0,ISR,Very Expensive,Not so good,Not so much
+Israel,Cabernet Franc,4,87.0,33.2,ISR,Very Expensive,Not so good,Numerous
+Israel,Cabernet Franc-Cabernet Sauvignon,1,90.0,38.0,ISR,Very Expensive,Very Good,Not so much
+Israel,Cabernet Merlot,3,89.66666666666667,39.666666666666664,ISR,Very Expensive,Very Good,Numerous
+Israel,Cabernet Sauvignon,92,88.9090909090909,33.98989898989899,ISR,Very Expensive,Good,Very Numerous
+Israel,Cabernet Sauvignon-Cabernet Franc,1,92.0,45.0,ISR,Very Expensive,Very Good,Not so much
+Israel,Cabernet Sauvignon-Merlot,8,88.44444444444444,22.555555555555557,ISR,Cheap,Good,Numerous
+Israel,Cabernet Sauvignon-Shiraz,6,88.0,21.666666666666668,ISR,Cheap,Good,Numerous
+Israel,Carignan,6,90.33333333333333,44.166666666666664,ISR,Very Expensive,Very Good,Numerous
+Israel,Chardonnay,38,87.53846153846153,23.82051282051282,ISR,Expensive,Not so good,Very Numerous
+Israel,Chardonnay-Sauvignon,1,89.0,11.0,ISR,Very cheap,Very Good,Not so much
+Israel,Chardonnay-Sauvignon Blanc,2,88.0,12.0,ISR,Very cheap,Good,Not so much
+Israel,Chenin Blanc,2,88.0,30.0,ISR,Expensive,Good,Not so much
+Israel,Fumé Blanc,1,86.0,15.0,ISR,Very cheap,Not good,Not so much
+Israel,Gewürztraminer,5,89.2,24.6,ISR,Expensive,Very Good,Numerous
+Israel,Marawi,2,87.66666666666667,35.0,ISR,Very Expensive,Not so good,Not so much
+Israel,Marselan,3,89.33333333333333,41.333333333333336,ISR,Very Expensive,Very Good,Numerous
+Israel,Merlot,34,87.23684210526316,25.026315789473685,ISR,Expensive,Not so good,Very Numerous
+Israel,Merlot-Argaman,1,85.0,12.0,ISR,Very cheap,Not good,Not so much
+Israel,Moscato,3,88.66666666666667,13.0,ISR,Very cheap,Good,Numerous
+Israel,Petit Verdot,2,90.5,52.5,ISR,Very Expensive,Very Good,Not so much
+Israel,Petite Sirah,9,89.3,33.2,ISR,Very Expensive,Very Good,Numerous
+Israel,Pinot Gris,1,90.0,15.0,ISR,Very cheap,Very Good,Not so much
+Israel,Pinot Noir,6,86.42857142857143,18.428571428571427,ISR,Cheap,Not so good,Numerous
+Israel,Pinotage,1,88.0,25.0,ISR,Expensive,Good,Not so much
+Israel,Red Blend,68,89.44444444444444,39.736111111111114,ISR,Very Expensive,Very Good,Very Numerous
+Israel,Rhône-style Red Blend,2,92.0,23.0,ISR,Expensive,Very Good,Not so much
+Israel,Rhône-style White Blend,1,85.0,20.0,ISR,Cheap,Not good,Not so much
+Israel,Riesling,1,90.0,15.0,ISR,Very cheap,Very Good,Not so much
+Israel,Rosé,10,86.9090909090909,19.636363636363637,ISR,Cheap,Not so good,Numerous
+Israel,Roussanne-Marsanne,1,88.0,50.0,ISR,Very Expensive,Good,Not so much
+Israel,Sangiovese,1,90.0,15.0,ISR,Very cheap,Very Good,Not so much
+Israel,Sauvignon Blanc,16,85.88888888888889,16.77777777777778,ISR,Very cheap,Not good,Very Numerous
+Israel,Sauvignon Blanc-Semillon,1,86.0,30.0,ISR,Expensive,Not good,Not so much
+Israel,Shiraz,25,89.15384615384616,22.692307692307693,ISR,Cheap,Very Good,Very Numerous
+Israel,Sparkling Blend,1,86.0,38.0,ISR,Very Expensive,Not good,Not so much
+Israel,Syrah,22,89.4090909090909,40.0,ISR,Very Expensive,Very Good,Very Numerous
+Israel,Syrah-Merlot,1,88.0,38.0,ISR,Very Expensive,Good,Not so much
+Israel,Syrah-Mourvèdre,3,90.25,32.75,ISR,Very Expensive,Very Good,Numerous
+Israel,Syrah-Viognier,1,90.0,50.0,ISR,Very Expensive,Very Good,Not so much
+Israel,Tempranillo,2,83.0,21.0,ISR,Cheap,Not good,Not so much
+Israel,Viognier,4,87.8,18.0,ISR,Cheap,Not so good,Numerous
+Israel,White Blend,16,87.23529411764706,22.88235294117647,ISR,Expensive,Not so good,Very Numerous
+Israel,White Riesling,1,89.0,26.0,ISR,Expensive,Very Good,Not so much
+Italy,Aglianico,257,89.4404332129964,39.25992779783393,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Albana,18,89.26315789473684,23.473684210526315,ITA,Expensive,Very Good,Very Numerous
+Italy,Albanello,1,86.0,20.0,ITA,Cheap,Not good,Not so much
+Italy,Albarossa,1,88.0,40.0,ITA,Very Expensive,Good,Not so much
+Italy,Aleatico,4,85.75,39.75,ITA,Very Expensive,Not good,Numerous
+Italy,Alicante,5,87.4,23.0,ITA,Expensive,Not so good,Numerous
+Italy,Ansonica,2,86.5,26.0,ITA,Expensive,Not so good,Not so much
+Italy,Arneis,58,87.13846153846154,20.584615384615386,ITA,Cheap,Not so good,Very Numerous
+Italy,Asprinio,1,84.0,15.0,ITA,Very cheap,Not good,Not so much
+Italy,Barbera,328,87.83466666666666,25.189333333333334,ITA,Expensive,Not so good,Very Numerous
+Italy,Biancale,1,85.0,18.0,ITA,Cheap,Not good,Not so much
+Italy,Biancolella,1,85.0,26.0,ITA,Expensive,Not good,Not so much
+Italy,Bombino Bianco,1,88.0,30.0,ITA,Expensive,Good,Not so much
+Italy,Bombino Nero,1,87.0,11.0,ITA,Very cheap,Not so good,Not so much
+Italy,Bordeaux-style Red Blend,2,89.5,56.5,ITA,Very Expensive,Very Good,Not so much
+Italy,Bovale,3,89.75,30.0,ITA,Expensive,Very Good,Numerous
+Italy,Brachetto,8,84.44444444444444,19.77777777777778,ITA,Cheap,Not good,Numerous
+Italy,Cabernet,4,86.4,13.4,ITA,Very cheap,Not so good,Numerous
+Italy,Cabernet Blend,3,88.33333333333333,46.666666666666664,ITA,Very Expensive,Good,Numerous
+Italy,Cabernet Franc,24,91.375,86.25,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Cabernet Sauvignon,107,89.23931623931624,44.24786324786325,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Cabernet Sauvignon-Merlot,2,92.0,61.5,ITA,Very Expensive,Very Good,Not so much
+Italy,Cabernet Sauvignon-Shiraz,1,86.0,10.0,ITA,Very cheap,Not good,Not so much
+Italy,Canaiolo,3,88.33333333333333,40.666666666666664,ITA,Very Expensive,Good,Numerous
+Italy,Cannonau,26,87.78571428571429,25.25,ITA,Expensive,Not so good,Very Numerous
+Italy,Caprettone,1,92.0,19.0,ITA,Cheap,Very Good,Not so much
+Italy,Carignano,12,90.35714285714286,36.785714285714285,ITA,Very Expensive,Very Good,Numerous
+Italy,Carmenère,1,90.0,40.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Carricante,32,89.88571428571429,40.542857142857144,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Casavecchia,3,87.0,46.4,ITA,Very Expensive,Not so good,Numerous
+Italy,Catalanesca,1,89.0,19.0,ITA,Cheap,Very Good,Not so much
+Italy,Catarratto,23,86.69565217391305,20.869565217391305,ITA,Cheap,Not so good,Very Numerous
+Italy,Centesimino,1,92.0,36.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Cesanese,1,90.0,20.0,ITA,Cheap,Very Good,Not so much
+Italy,Cesanese d'Affile,5,88.125,22.125,ITA,Cheap,Good,Numerous
+Italy,Champagne Blend,3,88.0,51.666666666666664,ITA,Very Expensive,Good,Numerous
+Italy,Chardonnay,254,88.25367647058823,32.356617647058826,ITA,Very Expensive,Good,Very Numerous
+Italy,Ciliegiolo,3,87.66666666666667,30.666666666666668,ITA,Expensive,Not so good,Numerous
+Italy,Cococciola,1,86.0,20.0,ITA,Cheap,Not good,Not so much
+Italy,Coda di Volpe,13,85.42857142857143,19.642857142857142,ITA,Cheap,Not good,Numerous
+Italy,Colorino,1,86.0,40.0,ITA,Very Expensive,Not good,Not so much
+Italy,Cortese,57,86.484375,21.796875,ITA,Cheap,Not so good,Very Numerous
+Italy,Corvina,19,88.85,43.3,ITA,Very Expensive,Good,Very Numerous
+Italy,"Corvina, Rondinella, Molinara",456,88.49596774193549,47.90725806451613,ITA,Very Expensive,Good,Very Numerous
+Italy,Dolcetto,108,87.05084745762711,19.991525423728813,ITA,Cheap,Not so good,Very Numerous
+Italy,Durella,6,89.66666666666667,32.5,ITA,Very Expensive,Very Good,Numerous
+Italy,Erbaluce,2,88.0,28.666666666666668,ITA,Expensive,Good,Not so much
+Italy,Falanghina,63,87.16176470588235,20.014705882352942,ITA,Cheap,Not so good,Very Numerous
+Italy,Favorita,1,90.0,40.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Fiano,110,88.4,28.125,ITA,Expensive,Good,Very Numerous
+Italy,Francisa,1,91.0,160.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Franconia,1,86.0,16.0,ITA,Very cheap,Not good,Not so much
+Italy,Frappato,32,87.60606060606061,23.060606060606062,ITA,Expensive,Not so good,Very Numerous
+Italy,Freisa,2,86.5,21.0,ITA,Cheap,Not so good,Not so much
+Italy,Friulano,100,88.01785714285714,23.714285714285715,ITA,Expensive,Good,Very Numerous
+Italy,Gaglioppo,12,86.64285714285714,21.214285714285715,ITA,Cheap,Not so good,Numerous
+Italy,Garganega,200,87.61290322580645,20.62672811059908,ITA,Cheap,Not so good,Very Numerous
+Italy,Gewürztraminer,44,88.46666666666667,31.133333333333333,ITA,Expensive,Good,Very Numerous
+Italy,Glera,233,88.21343873517786,22.8300395256917,ITA,Cheap,Good,Very Numerous
+Italy,Gragnano,2,82.5,16.5,ITA,Very cheap,Not good,Not so much
+Italy,Grecanico,6,87.42857142857143,21.142857142857142,ITA,Cheap,Not so good,Numerous
+Italy,Grechetto,11,86.9090909090909,16.818181818181817,ITA,Very cheap,Not so good,Numerous
+Italy,Greco,94,88.54205607476635,26.037383177570092,ITA,Expensive,Good,Very Numerous
+Italy,Greco Bianco,2,86.0,16.5,ITA,Very cheap,Not good,Not so much
+Italy,Grenache,1,90.0,230.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Grignolino,1,85.0,17.0,ITA,Cheap,Not good,Not so much
+Italy,Grillo,93,86.90566037735849,17.67924528301887,ITA,Cheap,Not so good,Very Numerous
+Italy,Groppello,1,87.0,23.0,ITA,Expensive,Not so good,Not so much
+Italy,Grüner Veltliner,4,88.5,24.0,ITA,Expensive,Good,Numerous
+Italy,Incrocio Manzoni,3,88.0,26.333333333333332,ITA,Expensive,Good,Numerous
+Italy,Insolia,22,86.65384615384616,16.884615384615383,ITA,Very cheap,Not so good,Very Numerous
+Italy,Inzolia,25,85.96296296296296,14.925925925925926,ITA,Very cheap,Not good,Very Numerous
+Italy,Kerner,23,88.8,23.28,ITA,Expensive,Good,Very Numerous
+Italy,Lagrein,63,88.64788732394366,32.63380281690141,ITA,Very Expensive,Good,Very Numerous
+Italy,Lambrusco,23,84.8695652173913,17.17391304347826,ITA,Cheap,Not good,Very Numerous
+Italy,Lambrusco Grasparossa,8,86.88888888888889,19.444444444444443,ITA,Cheap,Not so good,Numerous
+Italy,Lambrusco Salamino,1,90.0,23.0,ITA,Expensive,Very Good,Not so much
+Italy,Lambrusco di Sorbara,14,89.93333333333334,21.4,ITA,Cheap,Very Good,Numerous
+Italy,Magliocco,2,90.0,30.0,ITA,Expensive,Very Good,Not so much
+Italy,Malbec,2,89.0,30.0,ITA,Expensive,Very Good,Not so much
+Italy,Malvar,1,88.0,35.0,ITA,Very Expensive,Good,Not so much
+Italy,Malvasia,23,87.21739130434783,27.73913043478261,ITA,Expensive,Not so good,Very Numerous
+Italy,Malvasia Bianca,3,88.0,26.0,ITA,Expensive,Good,Numerous
+Italy,Malvasia Istriana,2,84.5,18.5,ITA,Cheap,Not good,Not so much
+Italy,Malvasia Nera,5,87.16666666666667,39.333333333333336,ITA,Very Expensive,Not so good,Numerous
+Italy,Malvasia di Candia,2,87.0,22.5,ITA,Cheap,Not so good,Not so much
+Italy,Mantonico,5,88.4,27.8,ITA,Expensive,Good,Numerous
+Italy,Manzoni,5,86.8,22.6,ITA,Cheap,Not so good,Numerous
+Italy,Marzemino,3,86.33333333333333,52.333333333333336,ITA,Very Expensive,Not so good,Numerous
+Italy,Merlot,127,89.59420289855072,92.76086956521739,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Merlot-Cabernet,1,86.0,19.0,ITA,Cheap,Not good,Not so much
+Italy,Mondeuse,2,89.5,48.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Monica,3,86.5,16.0,ITA,Very cheap,Not so good,Numerous
+Italy,Montepulciano,165,86.82485875706215,24.75141242937853,ITA,Expensive,Not so good,Very Numerous
+Italy,Moscadello,3,89.33333333333333,40.0,ITA,Very Expensive,Very Good,Numerous
+Italy,Moscato,123,87.4,22.85185185185185,ITA,Expensive,Not so good,Very Numerous
+Italy,Moscato Giallo,12,86.58333333333333,23.083333333333332,ITA,Expensive,Not so good,Numerous
+Italy,Moscato Rosa,2,90.0,33.5,ITA,Very Expensive,Very Good,Not so much
+Italy,Moscato di Noto,1,92.0,40.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Muscat,1,86.0,10.0,ITA,Very cheap,Not good,Not so much
+Italy,Müller-Thurgau,28,87.5,22.53125,ITA,Cheap,Not so good,Very Numerous
+Italy,Nascetta,4,87.75,27.0,ITA,Expensive,Not so good,Numerous
+Italy,Nasco,2,90.5,37.5,ITA,Very Expensive,Very Good,Not so much
+Italy,Nebbiolo,2093,90.39646799116998,66.44724061810155,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Negroamaro,68,86.66666666666667,18.59722222222222,ITA,Cheap,Not so good,Very Numerous
+Italy,Nerello Cappuccio,5,89.83333333333333,36.833333333333336,ITA,Very Expensive,Very Good,Numerous
+Italy,Nerello Mascalese,96,89.71428571428571,40.49523809523809,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Nero d'Avola,285,87.5031055900621,23.263975155279503,ITA,Expensive,Not so good,Very Numerous
+Italy,Nero di Troia,15,87.77777777777777,28.444444444444443,ITA,Expensive,Not so good,Very Numerous
+Italy,Nosiola,7,88.125,30.875,ITA,Expensive,Good,Numerous
+Italy,Nuragus,3,88.33333333333333,16.0,ITA,Very cheap,Good,Numerous
+Italy,Pallagrello,8,87.77777777777777,35.77777777777778,ITA,Very Expensive,Not so good,Numerous
+Italy,Pallagrello Bianco,5,87.6,31.6,ITA,Expensive,Not so good,Numerous
+Italy,Pallagrello Nero,4,87.8,41.0,ITA,Very Expensive,Not so good,Numerous
+Italy,Passerina,16,85.94736842105263,16.473684210526315,ITA,Very cheap,Not good,Very Numerous
+Italy,Pecorino,39,87.28888888888889,19.77777777777778,ITA,Cheap,Not so good,Very Numerous
+Italy,Perricone,6,88.71428571428571,27.285714285714285,ITA,Expensive,Good,Numerous
+Italy,Petit Manseng,3,88.0,38.666666666666664,ITA,Very Expensive,Good,Numerous
+Italy,Petit Verdot,7,89.75,38.0,ITA,Very Expensive,Very Good,Numerous
+Italy,Picolit,22,91.5,70.0909090909091,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Piedirosso,12,87.16666666666667,21.416666666666668,ITA,Cheap,Not so good,Numerous
+Italy,Pigato,1,84.0,23.0,ITA,Expensive,Not good,Not so much
+Italy,Pignoletto,3,83.66666666666667,16.333333333333332,ITA,Very cheap,Not good,Numerous
+Italy,Pignolo,1,92.0,70.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Pinot Bianco,135,88.52413793103449,26.386206896551723,ITA,Expensive,Good,Very Numerous
+Italy,Pinot Grigio,521,86.63082437275986,18.204301075268816,ITA,Cheap,Not so good,Very Numerous
+Italy,Pinot Nero,125,88.82517482517483,35.27272727272727,ITA,Very Expensive,Good,Very Numerous
+Italy,Pinot Noir,6,86.83333333333333,24.5,ITA,Expensive,Not so good,Numerous
+Italy,Primitivo,96,86.6,21.78,ITA,Cheap,Not so good,Very Numerous
+Italy,Prié Blanc,5,88.2,24.2,ITA,Expensive,Good,Numerous
+Italy,Prosecco,31,87.0909090909091,23.393939393939394,ITA,Expensive,Not so good,Very Numerous
+Italy,Prugnolo Gentile,32,88.71875,47.53125,ITA,Very Expensive,Good,Very Numerous
+Italy,Pugnitello,3,87.66666666666667,49.0,ITA,Very Expensive,Not so good,Numerous
+Italy,Raboso,9,87.16666666666667,28.166666666666668,ITA,Expensive,Not so good,Numerous
+Italy,Rebo,2,88.0,27.0,ITA,Expensive,Good,Not so much
+Italy,Red Blend,2990,88.86148648648648,39.739250614250615,ITA,Very Expensive,Good,Very Numerous
+Italy,Refosco,6,86.28571428571429,29.714285714285715,ITA,Expensive,Not good,Numerous
+Italy,Ribolla Gialla,55,87.58461538461539,28.56923076923077,ITA,Expensive,Not so good,Very Numerous
+Italy,Riesling,20,87.9090909090909,21.0,ITA,Cheap,Not so good,Very Numerous
+Italy,Rosato,75,86.70370370370371,17.34567901234568,ITA,Cheap,Not so good,Very Numerous
+Italy,Rosé,48,86.11320754716981,15.622641509433961,ITA,Very cheap,Not good,Very Numerous
+Italy,Roviello,1,93.0,28.0,ITA,Expensive,Very Good,Not so much
+Italy,Ruché,10,86.83333333333333,26.666666666666668,ITA,Expensive,Not so good,Numerous
+Italy,Sagrantino,85,90.07865168539325,53.38202247191011,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Sangiovese,1757,88.91713844570252,49.11631497683994,ITA,Very Expensive,Good,Very Numerous
+Italy,Sangiovese Grosso,544,90.8078231292517,65.67006802721089,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Sauvignon,251,88.27112676056338,27.06338028169014,ITA,Expensive,Good,Very Numerous
+Italy,Sauvignon Blanc,43,86.95454545454545,23.295454545454547,ITA,Expensive,Not so good,Very Numerous
+Italy,Schiava,21,88.17391304347827,19.043478260869566,ITA,Cheap,Good,Very Numerous
+Italy,Shiraz,4,86.75,16.75,ITA,Very cheap,Not so good,Numerous
+Italy,Sirica,2,92.5,23.0,ITA,Expensive,Very Good,Not so much
+Italy,Sparkling Blend,154,89.40963855421687,47.9277108433735,ITA,Very Expensive,Very Good,Very Numerous
+Italy,Susumaniello,5,89.0,30.8,ITA,Expensive,Very Good,Numerous
+Italy,Sylvaner,12,88.6923076923077,23.615384615384617,ITA,Expensive,Good,Numerous
+Italy,Syrah,113,88.86821705426357,52.85271317829457,ITA,Very Expensive,Good,Very Numerous
+Italy,Sémillon,1,86.0,15.0,ITA,Very cheap,Not good,Not so much
+Italy,Tannat,1,86.0,28.0,ITA,Expensive,Not good,Not so much
+Italy,Tempranillo,6,88.66666666666667,31.0,ITA,Expensive,Good,Numerous
+Italy,Teroldego,13,89.9375,33.9375,ITA,Very Expensive,Very Good,Numerous
+Italy,Teroldego Rotaliano,1,86.0,15.0,ITA,Very cheap,Not good,Not so much
+Italy,Timorasso,4,90.6,41.6,ITA,Very Expensive,Very Good,Numerous
+Italy,Tintilia ,1,87.0,25.0,ITA,Expensive,Not so good,Not so much
+Italy,Tocai,8,88.375,22.25,ITA,Cheap,Good,Numerous
+Italy,Tocai Friulano,5,87.4,38.2,ITA,Very Expensive,Not so good,Numerous
+Italy,Torbato,1,91.0,20.0,ITA,Cheap,Very Good,Not so much
+Italy,Traminer,7,87.42857142857143,16.857142857142858,ITA,Very cheap,Not so good,Numerous
+Italy,Trebbiano,36,87.28947368421052,23.13157894736842,ITA,Expensive,Not so good,Very Numerous
+Italy,Trebbiano Spoletino,5,87.6,22.4,ITA,Cheap,Not so good,Numerous
+Italy,Trebbiano di Lugana,3,87.66666666666667,29.333333333333332,ITA,Expensive,Not so good,Numerous
+Italy,Turbiana,123,88.89864864864865,23.89189189189189,ITA,Expensive,Good,Very Numerous
+Italy,Uva di Troia,11,87.6923076923077,24.46153846153846,ITA,Expensive,Not so good,Numerous
+Italy,Uvalino,1,88.0,29.0,ITA,Expensive,Good,Not so much
+Italy,Veltliner,4,90.0,29.5,ITA,Expensive,Very Good,Numerous
+Italy,Verdeca,5,86.2,15.6,ITA,Very cheap,Not good,Numerous
+Italy,Verdicchio,144,87.83647798742139,21.82389937106918,ITA,Cheap,Not so good,Very Numerous
+Italy,Verduzzo,4,88.8,33.0,ITA,Very Expensive,Good,Numerous
+Italy,Verduzzo Friulano ,3,88.66666666666667,54.333333333333336,ITA,Very Expensive,Good,Numerous
+Italy,Vermentino,126,87.68794326241135,22.69503546099291,ITA,Cheap,Not so good,Very Numerous
+Italy,Vermentino Nero,1,88.0,45.0,ITA,Very Expensive,Good,Not so much
+Italy,Vernaccia,113,87.3515625,18.6484375,ITA,Cheap,Not so good,Very Numerous
+Italy,Vespaiolo,1,92.0,40.0,ITA,Very Expensive,Very Good,Not so much
+Italy,Vespolina,2,88.0,25.0,ITA,Expensive,Good,Not so much
+Italy,Viognier,12,87.08333333333333,30.166666666666668,ITA,Expensive,Not so good,Numerous
+Italy,Vitovska,2,90.5,85.0,ITA,Very Expensive,Very Good,Not so much
+Italy,White Blend,607,87.96177370030581,28.201834862385322,ITA,Expensive,Good,Very Numerous
+Italy,Zibibbo,25,89.82142857142857,37.357142857142854,ITA,Very Expensive,Very Good,Very Numerous
+Lebanon,Chardonnay,1,88.0,30.0,LBN,Expensive,Good,Not so much
+Lebanon,Red Blend,15,87.9375,37.1875,LBN,Very Expensive,Not so good,Very Numerous
+Lebanon,Rhône-style Red Blend,1,91.0,27.0,LBN,Expensive,Very Good,Not so much
+Lebanon,Rosé,4,87.0,18.0,LBN,Cheap,Not so good,Numerous
+Lebanon,Syrah-Cabernet Sauvignon,2,91.0,35.0,LBN,Very Expensive,Very Good,Not so much
+Lebanon,White Blend,9,86.6,26.2,LBN,Expensive,Not so good,Numerous
+Luxembourg,Auxerrois,1,90.0,22.0,LUX,Cheap,Very Good,Not so much
+Luxembourg,Riesling,1,88.0,23.0,LUX,Expensive,Good,Not so much
+Macedonia,Chardonnay,1,87.0,15.0,MKD,Very cheap,Not so good,Not so much
+Macedonia,Pinot Noir,2,86.0,15.0,MKD,Very cheap,Not good,Not so much
+Macedonia,Red Blend,1,86.0,16.0,MKD,Very cheap,Not good,Not so much
+Macedonia,Rkatsiteli,1,88.0,15.0,MKD,Very cheap,Good,Not so much
+Macedonia,Sauvignon,1,88.0,15.0,MKD,Very cheap,Good,Not so much
+Macedonia,Vranec,3,87.33333333333333,17.0,MKD,Cheap,Not so good,Numerous
+Macedonia,White Blend,1,85.0,15.0,MKD,Very cheap,Not good,Not so much
+Macedonia,Žilavka,1,88.0,15.0,MKD,Very cheap,Good,Not so much
+Mexico,Bordeaux-style Red Blend,1,88.0,40.0,MEX,Very Expensive,Good,Not so much
+Mexico,Cabernet Blend,1,87.0,20.0,MEX,Cheap,Not so good,Not so much
+Mexico,Cabernet Franc,1,86.0,39.0,MEX,Very Expensive,Not good,Not so much
+Mexico,Cabernet Sauvignon,8,84.25,33.375,MEX,Very Expensive,Not good,Numerous
+Mexico,Cabernet Sauvignon-Merlot,1,86.0,23.0,MEX,Expensive,Not good,Not so much
+Mexico,Chardonnay,9,83.55555555555556,17.0,MEX,Cheap,Not good,Numerous
+Mexico,Chenin Blanc,3,83.0,13.333333333333334,MEX,Very cheap,Not good,Numerous
+Mexico,Cinsault,1,80.0,15.0,MEX,Very cheap,Not good,Not so much
+Mexico,Grenache,1,85.0,28.0,MEX,Expensive,Not good,Not so much
+Mexico,Merlot,1,82.0,30.0,MEX,Expensive,Not good,Not so much
+Mexico,Muscatel,1,87.0,19.0,MEX,Cheap,Not so good,Not so much
+Mexico,Nebbiolo,6,86.16666666666667,24.333333333333332,MEX,Expensive,Not good,Numerous
+Mexico,Petite Sirah,3,84.66666666666667,13.666666666666666,MEX,Very cheap,Not good,Numerous
+Mexico,Red Blend,13,88.0,43.642857142857146,MEX,Very Expensive,Good,Numerous
+Mexico,Rosado,1,86.0,17.0,MEX,Cheap,Not good,Not so much
+Mexico,Rosé,2,82.5,23.0,MEX,Expensive,Not good,Not so much
+Mexico,Sauvignon Blanc,7,84.71428571428571,15.428571428571429,MEX,Very cheap,Not good,Numerous
+Mexico,Sauvignon Blanc-Chenin Blanc,1,86.0,22.0,MEX,Cheap,Not good,Not so much
+Mexico,Shiraz,1,82.0,23.0,MEX,Expensive,Not good,Not so much
+Mexico,Syrah,1,83.0,35.0,MEX,Very Expensive,Not good,Not so much
+Mexico,Syrah-Mourvèdre,1,91.0,45.0,MEX,Very Expensive,Very Good,Not so much
+Mexico,Tempranillo,2,82.5,24.0,MEX,Expensive,Not good,Not so much
+Mexico,White Blend,2,85.5,20.0,MEX,Cheap,Not good,Not so much
+Moldova,Bordeaux-style Red Blend,2,90.0,35.0,MDA,Very Expensive,Very Good,Not so much
+Moldova,Cabernet Sauvignon,7,87.75,14.125,MDA,Very cheap,Not so good,Numerous
+Moldova,Champagne Blend,1,83.0,12.0,MDA,Very cheap,Not good,Not so much
+Moldova,Chardonnay,2,86.5,20.0,MDA,Cheap,Not so good,Not so much
+Moldova,Feteasca,1,88.0,13.0,MDA,Very cheap,Good,Not so much
+Moldova,Feteasca Neagra,1,88.0,12.0,MDA,Very cheap,Good,Not so much
+Moldova,Feteascǎ Regalǎ,1,87.0,11.0,MDA,Very cheap,Not so good,Not so much
+Moldova,Merlot,2,86.5,9.0,MDA,Very cheap,Not so good,Not so much
+Moldova,Merlot-Cabernet Sauvignon,1,87.0,16.0,MDA,Very cheap,Not so good,Not so much
+Moldova,Muscat,5,84.6,9.2,MDA,Very cheap,Not good,Numerous
+Moldova,Pinot Grigio,2,87.0,12.666666666666666,MDA,Very cheap,Not so good,Not so much
+Moldova,Pinot Gris,2,86.0,9.0,MDA,Very cheap,Not good,Not so much
+Moldova,Rara Neagra,2,89.5,17.5,MDA,Cheap,Very Good,Not so much
+Moldova,Red Blend,11,87.81818181818181,22.545454545454547,MDA,Cheap,Not so good,Numerous
+Moldova,Riesling,1,90.0,23.0,MDA,Expensive,Very Good,Not so much
+Moldova,Rosé,1,90.0,16.0,MDA,Very cheap,Very Good,Not so much
+Moldova,Saperavi,1,82.0,13.0,MDA,Very cheap,Not good,Not so much
+Moldova,Sauvignon Blanc,3,85.66666666666667,13.0,MDA,Very cheap,Not good,Numerous
+Moldova,Traminer,2,88.5,13.0,MDA,Very cheap,Good,Not so much
+Moldova,White Blend,6,88.33333333333333,24.5,MDA,Expensive,Good,Numerous
+Morocco,Cabernet Blend,1,89.0,18.0,MAR,Cheap,Very Good,Not so much
+Morocco,Cabernet Sauvignon Grenache,1,89.0,14.0,MAR,Very cheap,Very Good,Not so much
+Morocco,Chardonnay,3,88.33333333333333,18.0,MAR,Cheap,Good,Numerous
+Morocco,Red Blend,7,89.625,19.375,MAR,Cheap,Very Good,Numerous
+Morocco,Sauvignon Blanc,3,88.0,18.0,MAR,Cheap,Good,Numerous
+Morocco,Syrah,4,89.75,17.75,MAR,Cheap,Very Good,Numerous
+Morocco,Syrah-Grenache,2,87.33333333333333,33.333333333333336,MAR,Very Expensive,Not so good,Not so much
+Morocco,White Blend,3,86.33333333333333,14.666666666666666,MAR,Very cheap,Not so good,Numerous
+New Zealand,Bordeaux-style Red Blend,22,90.66666666666667,46.875,NZL,Very Expensive,Very Good,Very Numerous
+New Zealand,Cabernet Merlot,1,90.0,25.0,NZL,Expensive,Very Good,Not so much
+New Zealand,Cabernet Sauvignon,2,87.0,18.0,NZL,Cheap,Not so good,Not so much
+New Zealand,Cabernet Sauvignon-Merlot,3,90.33333333333333,32.0,NZL,Very Expensive,Very Good,Numerous
+New Zealand,Chardonnay,101,88.75229357798165,30.495412844036696,NZL,Expensive,Good,Very Numerous
+New Zealand,Chenin Blanc,3,89.66666666666667,25.666666666666668,NZL,Expensive,Very Good,Numerous
+New Zealand,Gewürztraminer,3,88.0,21.0,NZL,Cheap,Good,Numerous
+New Zealand,Grüner Veltliner,4,88.6,20.4,NZL,Cheap,Good,Numerous
+New Zealand,Malbec,1,88.0,18.0,NZL,Cheap,Good,Not so much
+New Zealand,Merlot,9,89.22222222222223,30.666666666666668,NZL,Expensive,Very Good,Numerous
+New Zealand,Merlot-Cabernet,1,88.0,29.0,NZL,Expensive,Good,Not so much
+New Zealand,Merlot-Cabernet Franc,1,89.0,39.0,NZL,Very Expensive,Very Good,Not so much
+New Zealand,Merlot-Malbec,3,87.33333333333333,20.0,NZL,Cheap,Not so good,Numerous
+New Zealand,Pinot Grigio,3,87.33333333333333,14.666666666666666,NZL,Very cheap,Not so good,Numerous
+New Zealand,Pinot Gris,55,87.65573770491804,20.60655737704918,NZL,Cheap,Not so good,Very Numerous
+New Zealand,Pinot Noir,430,88.3319587628866,34.942268041237114,NZL,Very Expensive,Good,Very Numerous
+New Zealand,Red Blend,1,89.0,30.0,NZL,Expensive,Very Good,Not so much
+New Zealand,Riesling,54,88.0,19.818181818181817,NZL,Cheap,Good,Very Numerous
+New Zealand,Rosé,5,86.2,16.8,NZL,Very cheap,Not good,Numerous
+New Zealand,Sauvignon Blanc,484,88.05914972273567,18.719038817005547,NZL,Cheap,Good,Very Numerous
+New Zealand,Sauvignon Blanc-Semillon,3,86.0,25.333333333333332,NZL,Expensive,Not good,Numerous
+New Zealand,Semillon-Sauvignon Blanc,1,82.0,14.0,NZL,Very cheap,Not good,Not so much
+New Zealand,Sparkling Blend,3,87.0,30.0,NZL,Expensive,Not so good,Numerous
+New Zealand,Syrah,38,90.53488372093024,42.23255813953488,NZL,Very Expensive,Very Good,Very Numerous
+New Zealand,White Blend,1,90.0,16.0,NZL,Very cheap,Very Good,Not so much
+Peru,Cabernet Sauvignon-Syrah,1,84.0,17.0,PER,Cheap,Not good,Not so much
+Peru,Chardonnay,1,82.0,14.0,PER,Very cheap,Not good,Not so much
+Peru,Malbec,2,84.5,14.5,PER,Very cheap,Not good,Not so much
+Peru,Malbec-Merlot,1,85.0,17.0,PER,Cheap,Not good,Not so much
+Peru,Petit Verdot,1,84.0,20.0,PER,Cheap,Not good,Not so much
+Peru,Red Blend,4,84.5,28.75,PER,Expensive,Not good,Numerous
+Peru,Sauvignon Blanc,1,84.0,14.0,PER,Very cheap,Not good,Not so much
+Peru,Sparkling Blend,1,80.0,15.0,PER,Very cheap,Not good,Not so much
+Peru,Syrah,1,81.0,14.0,PER,Very cheap,Not good,Not so much
+Peru,Tannat,1,85.0,14.0,PER,Very cheap,Not good,Not so much
+Peru,White Blend,2,82.5,10.0,PER,Very cheap,Not good,Not so much
+Portugal,Alfrocheiro,13,88.86666666666666,26.666666666666668,PRT,Expensive,Good,Numerous
+Portugal,Alicante Bouschet,37,89.9,32.975,PRT,Very Expensive,Very Good,Very Numerous
+Portugal,Alvarelhão,1,88.0,24.0,PRT,Expensive,Good,Not so much
+Portugal,Alvarinho,101,88.56521739130434,19.347826086956523,PRT,Cheap,Good,Very Numerous
+Portugal,Alvarinho-Chardonnay,4,86.75,11.25,PRT,Very cheap,Not so good,Numerous
+Portugal,Antão Vaz,15,87.70588235294117,19.764705882352942,PRT,Cheap,Not so good,Very Numerous
+Portugal,Aragonez,5,88.0,23.5,PRT,Expensive,Good,Numerous
+Portugal,Aragonês,6,89.14285714285714,29.571428571428573,PRT,Expensive,Very Good,Numerous
+Portugal,Arinto,57,87.2063492063492,15.825396825396826,PRT,Very cheap,Not so good,Very Numerous
+Portugal,Avesso,6,88.0,16.333333333333332,PRT,Very cheap,Good,Numerous
+Portugal,Azal,3,86.0,13.666666666666666,PRT,Very cheap,Not good,Numerous
+Portugal,Baga,24,90.46153846153847,37.19230769230769,PRT,Very Expensive,Very Good,Very Numerous
+Portugal,Baga-Touriga Nacional,2,91.0,40.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Bastardo,1,86.0,32.0,PRT,Very Expensive,Not good,Not so much
+Portugal,Bical,12,86.5,15.25,PRT,Very cheap,Not so good,Numerous
+Portugal,Bordeaux-style Red Blend,5,93.0,41.2,PRT,Very Expensive,Very Good,Numerous
+Portugal,Bual,6,94.33333333333333,100.0,PRT,Very Expensive,Very Good,Numerous
+Portugal,Cabernet Blend,1,86.0,13.0,PRT,Very cheap,Not good,Not so much
+Portugal,Cabernet Sauvignon,13,88.4,19.4,PRT,Cheap,Good,Numerous
+Portugal,Cabernet Sauvignon-Syrah,1,90.0,22.0,PRT,Cheap,Very Good,Not so much
+Portugal,Castelão,27,87.64516129032258,16.806451612903224,PRT,Very cheap,Not so good,Very Numerous
+Portugal,Cerceal,3,89.66666666666667,44.666666666666664,PRT,Very Expensive,Very Good,Numerous
+Portugal,Cercial,1,88.0,50.0,PRT,Very Expensive,Good,Not so much
+Portugal,Chardonnay,15,87.6470588235294,17.647058823529413,PRT,Cheap,Not so good,Very Numerous
+Portugal,Chardonnay-Viognier,1,86.0,20.0,PRT,Cheap,Not good,Not so much
+Portugal,Chenin Blanc,3,90.33333333333333,19.666666666666668,PRT,Cheap,Very Good,Numerous
+Portugal,Códega do Larinho,4,87.75,18.0,PRT,Cheap,Not so good,Numerous
+Portugal,Encruzado,29,89.82352941176471,24.147058823529413,PRT,Expensive,Very Good,Very Numerous
+Portugal,Fernão Pires,26,87.34615384615384,21.26923076923077,PRT,Cheap,Not so good,Very Numerous
+Portugal,Gewürztraminer,1,85.0,20.0,PRT,Cheap,Not good,Not so much
+Portugal,Gewürztraminer-Riesling,1,82.0,28.0,PRT,Expensive,Not good,Not so much
+Portugal,Gouveio,2,88.5,22.5,PRT,Cheap,Good,Not so much
+Portugal,Jaen,5,90.6,33.2,PRT,Very Expensive,Very Good,Numerous
+Portugal,Jampal,1,88.0,25.0,PRT,Expensive,Good,Not so much
+Portugal,Loureiro,23,87.25,12.875,PRT,Very cheap,Not so good,Very Numerous
+Portugal,Loureiro-Arinto,1,86.0,10.0,PRT,Very cheap,Not good,Not so much
+Portugal,Malvasia,1,88.0,30.0,PRT,Expensive,Good,Not so much
+Portugal,Malvasia Fina,2,88.0,23.5,PRT,Expensive,Good,Not so much
+Portugal,Maria Gomes,1,88.0,11.0,PRT,Very cheap,Good,Not so much
+Portugal,Maria Gomes-Bical,1,86.0,25.0,PRT,Expensive,Not good,Not so much
+Portugal,Merlot,12,88.75,19.75,PRT,Cheap,Good,Numerous
+Portugal,Merlot-Syrah,1,88.0,24.0,PRT,Expensive,Good,Not so much
+Portugal,Moscatel,10,89.63636363636364,50.90909090909091,PRT,Very Expensive,Very Good,Numerous
+Portugal,Moscatel Graúdo,2,87.5,13.0,PRT,Very cheap,Not so good,Not so much
+Portugal,Moscatel Roxo,4,89.25,22.0,PRT,Cheap,Very Good,Numerous
+Portugal,Muscat,2,87.0,8.5,PRT,Very cheap,Not so good,Not so much
+Portugal,Petit Verdot,7,90.42857142857143,30.428571428571427,PRT,Expensive,Very Good,Numerous
+Portugal,Petite Verdot,2,90.5,33.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Pinot Noir,14,88.2,31.933333333333334,PRT,Expensive,Good,Numerous
+Portugal,Port,247,91.43023255813954,84.63953488372093,PRT,Very Expensive,Very Good,Very Numerous
+Portugal,Portuguese Red,2012,88.87089416058394,24.842153284671532,PRT,Expensive,Good,Very Numerous
+Portugal,Portuguese Rosé,10,84.72727272727273,17.09090909090909,PRT,Cheap,Not good,Numerous
+Portugal,Portuguese Sparkling,24,86.51851851851852,21.555555555555557,PRT,Cheap,Not so good,Very Numerous
+Portugal,Portuguese White,897,86.95505617977528,15.338100102145045,PRT,Very cheap,Not so good,Very Numerous
+Portugal,Rabigato,2,89.0,34.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Ramisco,1,93.0,495.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Red Blend,7,88.57142857142857,21.571428571428573,PRT,Cheap,Good,Numerous
+Portugal,Rhône-style Red Blend,3,92.66666666666667,45.0,PRT,Very Expensive,Very Good,Numerous
+Portugal,Riesling,3,87.66666666666667,19.666666666666668,PRT,Cheap,Not so good,Numerous
+Portugal,Rosado,1,86.0,13.0,PRT,Very cheap,Not good,Not so much
+Portugal,Rosé,194,84.6029411764706,11.946078431372548,PRT,Very cheap,Not good,Very Numerous
+Portugal,Sauvignon Blanc,22,86.69565217391305,18.869565217391305,PRT,Cheap,Not so good,Very Numerous
+Portugal,Sercial,1,94.0,50.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Shiraz,3,90.33333333333333,13.0,PRT,Very cheap,Very Good,Numerous
+Portugal,Siria,10,87.36363636363636,14.272727272727273,PRT,Very cheap,Not so good,Numerous
+Portugal,Sousão,6,88.125,36.75,PRT,Very Expensive,Good,Numerous
+Portugal,Sparkling Blend,6,87.0,24.142857142857142,PRT,Expensive,Not so good,Numerous
+Portugal,Syrah,38,88.76923076923077,30.692307692307693,PRT,Expensive,Good,Very Numerous
+Portugal,Sémillon,3,90.33333333333333,31.0,PRT,Expensive,Very Good,Numerous
+Portugal,Terrantez,1,95.0,236.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Tinta Barroca,3,86.66666666666667,17.666666666666668,PRT,Cheap,Not so good,Numerous
+Portugal,Tinta Cao,1,90.0,14.0,PRT,Very cheap,Very Good,Not so much
+Portugal,Tinta Francisca,3,90.33333333333333,50.0,PRT,Very Expensive,Very Good,Numerous
+Portugal,Tinta Miúda,2,87.66666666666667,18.666666666666668,PRT,Cheap,Not so good,Not so much
+Portugal,Tinta Negra Mole,1,92.0,112.0,PRT,Very Expensive,Very Good,Not so much
+Portugal,Tinta Roriz,10,88.5,29.4,PRT,Expensive,Good,Numerous
+Portugal,Touriga Franca,6,88.57142857142857,27.0,PRT,Expensive,Good,Numerous
+Portugal,Touriga Nacional,137,89.25,28.86842105263158,PRT,Expensive,Very Good,Very Numerous
+Portugal,Touriga Nacional Blend,12,88.75,19.833333333333332,PRT,Cheap,Good,Numerous
+Portugal,Touriga Nacional-Cabernet Sauvignon,25,88.07692307692308,14.038461538461538,PRT,Very cheap,Good,Very Numerous
+Portugal,Trajadura,1,86.0,7.0,PRT,Very cheap,Not good,Not so much
+Portugal,Trincadeira,21,87.75,19.833333333333332,PRT,Cheap,Not so good,Very Numerous
+Portugal,Verdelho,22,87.23076923076923,23.76923076923077,PRT,Expensive,Not so good,Very Numerous
+Portugal,Vinhão,1,88.0,18.0,PRT,Cheap,Good,Not so much
+Portugal,Viognier,11,88.76923076923077,24.76923076923077,PRT,Expensive,Good,Numerous
+Portugal,Viosinho,4,88.4,23.4,PRT,Expensive,Good,Numerous
+Portugal,White Blend,7,88.42857142857143,23.428571428571427,PRT,Expensive,Good,Numerous
+Romania,Cabernet Sauvignon,11,86.125,9.9375,ROU,Very cheap,Not good,Numerous
+Romania,Chardonnay,11,86.33333333333333,11.416666666666666,ROU,Very cheap,Not so good,Numerous
+Romania,Feteasca,1,87.0,22.0,ROU,Cheap,Not so good,Not so much
+Romania,Feteasca Neagra,5,87.83333333333333,15.833333333333334,ROU,Very cheap,Not so good,Numerous
+Romania,Feteascǎ Regalǎ,4,86.75,9.75,ROU,Very cheap,Not so good,Numerous
+Romania,Gewürztraminer,1,86.0,8.0,ROU,Very cheap,Not good,Not so much
+Romania,Merlot,9,86.1,19.4,ROU,Cheap,Not good,Numerous
+Romania,Moscato,4,86.0,7.2,ROU,Very cheap,Not good,Numerous
+Romania,Muskat Ottonel,1,88.0,11.0,ROU,Very cheap,Good,Not so much
+Romania,Pinot Grigio,8,86.0,7.6,ROU,Very cheap,Not good,Numerous
+Romania,Pinot Gris,2,86.66666666666667,16.333333333333332,ROU,Very cheap,Not so good,Not so much
+Romania,Pinot Noir,14,86.2,9.266666666666667,ROU,Very cheap,Not good,Numerous
+Romania,Red Blend,7,87.6,25.9,ROU,Expensive,Not so good,Numerous
+Romania,Riesling,4,84.25,86.25,ROU,Very Expensive,Not good,Numerous
+Romania,Rosé,1,82.0,9.0,ROU,Very cheap,Not good,Not so much
+Romania,Sauvignon,1,89.0,18.0,ROU,Cheap,Very Good,Not so much
+Romania,Sauvignon Blanc,12,86.53333333333333,11.266666666666667,ROU,Very cheap,Not so good,Numerous
+Romania,Tămâioasă Românească,2,88.0,11.0,ROU,Very cheap,Good,Not so much
+Romania,White Blend,3,85.66666666666667,14.0,ROU,Very cheap,Not good,Numerous
+Serbia,Blauer Portugieser,1,87.0,16.0,SRB,Very cheap,Not so good,Not so much
+Serbia,Morava,1,87.0,26.0,SRB,Expensive,Not so good,Not so much
+Serbia,Portuguiser,1,86.0,15.0,SRB,Very cheap,Not good,Not so much
+Serbia,Red Blend,2,89.0,40.666666666666664,SRB,Very Expensive,Very Good,Not so much
+Serbia,Riesling,2,87.0,21.333333333333332,SRB,Cheap,Not so good,Not so much
+Serbia,Tamjanika,1,88.0,18.0,SRB,Cheap,Good,Not so much
+Slovakia,Riesling,1,87.0,16.0,SVK,Very cheap,Not so good,Not so much
+Slovenia,Bordeaux-style Red Blend,4,89.25,40.25,SVN,Very Expensive,Very Good,Numerous
+Slovenia,Cabernet Franc,1,89.0,35.0,SVN,Very Expensive,Very Good,Not so much
+Slovenia,Cabernet Sauvignon,3,88.66666666666667,36.333333333333336,SVN,Very Expensive,Good,Numerous
+Slovenia,Cabernet Sauvignon-Merlot,1,89.0,44.0,SVN,Very Expensive,Very Good,Not so much
+Slovenia,Chardonnay,3,88.66666666666667,17.666666666666668,SVN,Cheap,Good,Numerous
+Slovenia,Furmint,1,83.0,20.0,SVN,Cheap,Not good,Not so much
+Slovenia,Malvasia Istriana,1,87.0,30.0,SVN,Expensive,Not so good,Not so much
+Slovenia,Merlot,1,89.0,37.0,SVN,Very Expensive,Very Good,Not so much
+Slovenia,Merlot-Cabernet Franc,1,90.0,60.0,SVN,Very Expensive,Very Good,Not so much
+Slovenia,Moscato,1,87.0,11.0,SVN,Very cheap,Not so good,Not so much
+Slovenia,Pinot Grigio,5,87.6,11.8,SVN,Very cheap,Not so good,Numerous
+Slovenia,Pinot Gris,3,88.66666666666667,29.333333333333332,SVN,Expensive,Good,Numerous
+Slovenia,Pinot Noir,4,87.4,19.0,SVN,Cheap,Not so good,Numerous
+Slovenia,Rebula,3,88.0,22.666666666666668,SVN,Cheap,Good,Numerous
+Slovenia,Red Blend,3,88.5,25.5,SVN,Expensive,Good,Numerous
+Slovenia,Refosco,1,86.0,18.0,SVN,Cheap,Not good,Not so much
+Slovenia,Ribolla Gialla,7,88.11111111111111,20.444444444444443,SVN,Cheap,Good,Numerous
+Slovenia,Riesling,2,87.5,24.5,SVN,Expensive,Not so good,Not so much
+Slovenia,Rosé,2,87.5,23.5,SVN,Expensive,Not so good,Not so much
+Slovenia,Sauvignon,3,87.33333333333333,24.666666666666668,SVN,Expensive,Not so good,Numerous
+Slovenia,Sauvignon Blanc,8,87.0,18.333333333333332,SVN,Cheap,Not so good,Numerous
+Slovenia,Sauvignonasse,1,90.0,25.0,SVN,Expensive,Very Good,Not so much
+Slovenia,Teran,2,89.0,21.5,SVN,Cheap,Very Good,Not so much
+Slovenia,Traminer,1,85.0,20.0,SVN,Cheap,Not good,Not so much
+Slovenia,Vitovska,1,90.0,23.0,SVN,Expensive,Very Good,Not so much
+Slovenia,White Blend,6,89.25,31.5,SVN,Expensive,Very Good,Numerous
+South Africa,Bordeaux-style Red Blend,73,90.425,51.1125,ZAF,Very Expensive,Very Good,Very Numerous
+South Africa,Bordeaux-style White Blend,2,90.5,55.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Cabernet,1,87.0,12.0,ZAF,Very cheap,Not so good,Not so much
+South Africa,Cabernet Blend,2,88.0,46.5,ZAF,Very Expensive,Good,Not so much
+South Africa,Cabernet Franc,2,89.0,27.5,ZAF,Expensive,Very Good,Not so much
+South Africa,Cabernet Sauvignon,114,87.875,23.233333333333334,ZAF,Expensive,Not so good,Very Numerous
+South Africa,Cabernet Sauvignon-Cabernet Franc,1,87.0,26.0,ZAF,Expensive,Not so good,Not so much
+South Africa,Cabernet Sauvignon-Merlot,10,86.7,18.1,ZAF,Cheap,Not so good,Numerous
+South Africa,Cabernet Sauvignon-Merlot-Shiraz,1,87.0,10.0,ZAF,Very cheap,Not so good,Not so much
+South Africa,Cabernet Sauvignon-Shiraz,1,89.0,18.0,ZAF,Cheap,Very Good,Not so much
+South Africa,Champagne Blend,1,87.0,18.0,ZAF,Cheap,Not so good,Not so much
+South Africa,Chardonnay,147,88.14012738853503,22.59235668789809,ZAF,Cheap,Good,Very Numerous
+South Africa,Chardonnay-Viognier,1,87.0,10.0,ZAF,Very cheap,Not so good,Not so much
+South Africa,Chenin Blanc,153,87.72455089820359,19.87425149700599,ZAF,Cheap,Not so good,Very Numerous
+South Africa,Chenin Blanc-Sauvignon Blanc,6,84.83333333333333,10.5,ZAF,Very cheap,Not good,Numerous
+South Africa,Chenin Blanc-Viognier,1,90.0,35.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Cinsault,1,90.0,58.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Fumé Blanc,1,88.0,13.0,ZAF,Very cheap,Good,Not so much
+South Africa,G-S-M,2,89.0,43.5,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Gewürztraminer,1,89.0,18.0,ZAF,Cheap,Very Good,Not so much
+South Africa,Grenache-Syrah,2,91.0,65.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Merlot,47,86.52941176470588,18.647058823529413,ZAF,Cheap,Not so good,Very Numerous
+South Africa,Merlot-Cabernet Sauvignon,4,86.4,11.0,ZAF,Very cheap,Not so good,Numerous
+South Africa,Merlot-Shiraz,1,86.0,18.0,ZAF,Cheap,Not good,Not so much
+South Africa,Moscato,1,84.0,10.0,ZAF,Very cheap,Not good,Not so much
+South Africa,Mourvèdre,1,87.0,13.0,ZAF,Very cheap,Not so good,Not so much
+South Africa,Muscat,2,94.5,70.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Pinot Noir,20,88.73913043478261,39.82608695652174,ZAF,Very Expensive,Good,Very Numerous
+South Africa,Pinotage,109,87.23529411764706,23.89075630252101,ZAF,Expensive,Not so good,Very Numerous
+South Africa,Pinotage-Merlot,1,84.0,10.0,ZAF,Very cheap,Not good,Not so much
+South Africa,Red Blend,76,88.5625,27.025,ZAF,Expensive,Good,Very Numerous
+South Africa,Rhône-style Red Blend,8,91.0,46.18181818181818,ZAF,Very Expensive,Very Good,Numerous
+South Africa,Riesling,6,87.875,18.375,ZAF,Cheap,Not so good,Numerous
+South Africa,Rosé,25,85.62962962962963,12.88888888888889,ZAF,Very cheap,Not good,Very Numerous
+South Africa,Sauvignon Blanc,159,86.89080459770115,15.850574712643677,ZAF,Very cheap,Not so good,Very Numerous
+South Africa,Sauvignon Blanc-Chenin Blanc,2,87.0,13.0,ZAF,Very cheap,Not so good,Not so much
+South Africa,Sauvignon Blanc-Semillon,2,90.5,31.0,ZAF,Expensive,Very Good,Not so much
+South Africa,Semillon-Sauvignon Blanc,1,92.0,30.0,ZAF,Expensive,Very Good,Not so much
+South Africa,Shiraz,79,87.57142857142857,28.285714285714285,ZAF,Expensive,Not so good,Very Numerous
+South Africa,Shiraz-Cabernet Sauvignon,4,85.75,20.75,ZAF,Cheap,Not good,Numerous
+South Africa,Shiraz-Mourvèdre,1,88.0,16.0,ZAF,Very cheap,Good,Not so much
+South Africa,Sparkling Blend,5,87.2,31.8,ZAF,Expensive,Not so good,Numerous
+South Africa,Syrah,44,89.33333333333333,37.229166666666664,ZAF,Very Expensive,Very Good,Very Numerous
+South Africa,Syrah-Cabernet,1,82.0,10.0,ZAF,Very cheap,Not good,Not so much
+South Africa,Syrah-Cabernet Sauvignon,1,91.0,75.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Syrah-Mourvèdre,1,88.0,13.0,ZAF,Very cheap,Good,Not so much
+South Africa,Syrah-Viognier,1,89.0,20.0,ZAF,Cheap,Very Good,Not so much
+South Africa,Sémillon,3,89.33333333333333,32.333333333333336,ZAF,Very Expensive,Very Good,Numerous
+South Africa,Tinta Barroca,1,91.0,53.0,ZAF,Very Expensive,Very Good,Not so much
+South Africa,Viognier,15,87.42105263157895,20.0,ZAF,Cheap,Not so good,Very Numerous
+South Africa,Viognier-Grenache Blanc,1,87.0,35.0,ZAF,Very Expensive,Not so good,Not so much
+South Africa,White Blend,35,87.94736842105263,21.94736842105263,ZAF,Cheap,Not so good,Very Numerous
+Spain,Airen,3,81.66666666666667,9.0,ESP,Very cheap,Not good,Numerous
+Spain,Albariño,310,87.45722713864306,20.640117994100294,ESP,Cheap,Not so good,Very Numerous
+Spain,Alicante Bouschet,1,83.0,10.0,ESP,Very cheap,Not good,Not so much
+Spain,Babosa Negro,1,92.0,45.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Bobal,20,85.9047619047619,19.19047619047619,ESP,Cheap,Not good,Very Numerous
+Spain,Bobal-Cabernet Sauvignon,1,84.0,9.0,ESP,Very cheap,Not good,Not so much
+Spain,Bordeaux-style Red Blend,9,86.88888888888889,44.666666666666664,ESP,Very Expensive,Not so good,Numerous
+Spain,Cabernet Blend,5,89.0,89.8,ESP,Very Expensive,Very Good,Numerous
+Spain,Cabernet Franc,1,86.0,28.0,ESP,Expensive,Not good,Not so much
+Spain,Cabernet Sauvignon,47,87.2156862745098,32.13725490196079,ESP,Very Expensive,Not so good,Very Numerous
+Spain,Cabernet Sauvignon-Cabernet Franc,1,89.0,30.0,ESP,Expensive,Very Good,Not so much
+Spain,Cabernet Sauvignon-Merlot,8,88.44444444444444,16.444444444444443,ESP,Very cheap,Good,Numerous
+Spain,Cabernet Sauvignon-Shiraz,1,90.0,40.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Cabernet Sauvignon-Syrah,2,89.66666666666667,30.333333333333332,ESP,Expensive,Very Good,Not so much
+Spain,Cabernet Sauvignon-Tempranillo,11,86.14285714285714,14.5,ESP,Very cheap,Not good,Numerous
+Spain,Carignan,9,93.2,173.3,ESP,Very Expensive,Very Good,Numerous
+Spain,Carignan-Grenache,5,89.16666666666667,32.333333333333336,ESP,Very Expensive,Very Good,Numerous
+Spain,Carineña,5,86.2,22.2,ESP,Cheap,Not good,Numerous
+Spain,Cariñena-Garnacha,2,89.5,31.0,ESP,Expensive,Very Good,Not so much
+Spain,Chardonnay,64,84.72463768115942,18.971014492753625,ESP,Cheap,Not good,Very Numerous
+Spain,Chardonnay-Sauvignon Blanc,1,87.0,12.0,ESP,Very cheap,Not so good,Not so much
+Spain,Doña Blanca,1,84.0,53.0,ESP,Very Expensive,Not good,Not so much
+Spain,Forcallà,1,83.0,27.0,ESP,Expensive,Not good,Not so much
+Spain,Garnacha,290,85.89902280130293,23.16612377850163,ESP,Expensive,Not good,Very Numerous
+Spain,Garnacha Blanca,31,86.13513513513513,18.45945945945946,ESP,Cheap,Not good,Very Numerous
+Spain,Garnacha Blend,2,87.5,19.0,ESP,Cheap,Not so good,Not so much
+Spain,Garnacha Tintorera,8,87.125,16.75,ESP,Very cheap,Not so good,Numerous
+Spain,Garnacha-Cabernet,1,85.0,13.0,ESP,Very cheap,Not good,Not so much
+Spain,Garnacha-Cariñena,1,93.0,57.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Garnacha-Monastrell,3,87.0,11.666666666666666,ESP,Very cheap,Not so good,Numerous
+Spain,Garnacha-Syrah,12,84.61538461538461,13.23076923076923,ESP,Very cheap,Not good,Numerous
+Spain,Garnacha-Tempranillo,5,86.33333333333333,11.0,ESP,Very cheap,Not so good,Numerous
+Spain,Godello,72,86.88311688311688,22.506493506493506,ESP,Cheap,Not so good,Very Numerous
+Spain,Graciano,26,88.0,53.37931034482759,ESP,Very Expensive,Good,Very Numerous
+Spain,Grenache,18,86.5,15.5,ESP,Very cheap,Not so good,Very Numerous
+Spain,Grenache Blanc,5,86.83333333333333,26.5,ESP,Expensive,Not so good,Numerous
+Spain,Grenache Blend,5,84.66666666666667,12.666666666666666,ESP,Very cheap,Not good,Numerous
+Spain,Grenache-Carignan,10,89.4,30.1,ESP,Expensive,Very Good,Numerous
+Spain,Grenache-Syrah,3,88.0,13.333333333333334,ESP,Very cheap,Good,Numerous
+Spain,Hondarrabi Zuri,16,86.17647058823529,21.176470588235293,ESP,Cheap,Not good,Very Numerous
+Spain,Jaen,1,86.0,20.0,ESP,Cheap,Not good,Not so much
+Spain,Listán Negro,2,87.66666666666667,28.333333333333332,ESP,Expensive,Not so good,Not so much
+Spain,Macabeo,19,85.55,18.5,ESP,Cheap,Not good,Very Numerous
+Spain,Macabeo-Chardonnay,3,85.66666666666667,11.0,ESP,Very cheap,Not good,Numerous
+Spain,Macabeo-Moscatel,1,85.0,8.0,ESP,Very cheap,Not good,Not so much
+Spain,Malvar,1,81.0,12.0,ESP,Very cheap,Not good,Not so much
+Spain,Malvasia,5,84.5,18.5,ESP,Cheap,Not good,Numerous
+Spain,Malvasia-Viura,3,85.0,17.666666666666668,ESP,Cheap,Not good,Numerous
+Spain,Mataro,1,90.0,40.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Maturana,6,86.5,57.5,ESP,Very Expensive,Not so good,Numerous
+Spain,Mazuelo,4,87.75,78.25,ESP,Very Expensive,Not so good,Numerous
+Spain,Mencía,156,88.74418604651163,28.203488372093023,ESP,Expensive,Good,Very Numerous
+Spain,Merlot,15,84.93333333333334,17.466666666666665,ESP,Cheap,Not good,Very Numerous
+Spain,Merlot-Cabernet Sauvignon,3,86.0,16.5,ESP,Very cheap,Not good,Numerous
+Spain,Merseguera-Sauvignon Blanc,1,85.0,9.0,ESP,Very cheap,Not good,Not so much
+Spain,Meseguera,1,91.0,35.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Monastrell,120,87.05839416058394,19.547445255474454,ESP,Cheap,Not so good,Very Numerous
+Spain,Monastrell-Petit Verdot,2,88.0,19.5,ESP,Cheap,Good,Not so much
+Spain,Monastrell-Syrah,19,86.23809523809524,18.761904761904763,ESP,Cheap,Not good,Very Numerous
+Spain,Moscatel,32,88.32352941176471,33.76470588235294,ESP,Very Expensive,Good,Very Numerous
+Spain,Moscatel de Alejandría,3,85.33333333333333,18.666666666666668,ESP,Cheap,Not good,Numerous
+Spain,Moscato,4,84.4,13.2,ESP,Very cheap,Not good,Numerous
+Spain,Muscat,6,86.5,16.333333333333332,ESP,Very cheap,Not so good,Numerous
+Spain,Muscat of Alexandria,1,91.0,26.0,ESP,Expensive,Very Good,Not so much
+Spain,Pansa Blanca,13,85.57142857142857,17.785714285714285,ESP,Cheap,Not good,Numerous
+Spain,Paralleda,1,83.0,11.0,ESP,Very cheap,Not good,Not so much
+Spain,Parraleta,1,86.0,14.0,ESP,Very cheap,Not good,Not so much
+Spain,Pedro Ximénez,12,91.0,42.92857142857143,ESP,Very Expensive,Very Good,Numerous
+Spain,Petit Verdot,9,89.5,54.2,ESP,Very Expensive,Very Good,Numerous
+Spain,Petite Verdot,2,86.5,40.0,ESP,Very Expensive,Not so good,Not so much
+Spain,Picapoll,1,82.0,21.0,ESP,Cheap,Not good,Not so much
+Spain,Pinot Noir,6,87.0,22.833333333333332,ESP,Cheap,Not so good,Numerous
+Spain,Premsal,1,83.0,15.0,ESP,Very cheap,Not good,Not so much
+Spain,Prieto Picudo,14,86.13333333333334,39.4,ESP,Very Expensive,Not good,Numerous
+Spain,Red Blend,738,88.15260545905707,35.353598014888334,ESP,Very Expensive,Good,Very Numerous
+Spain,Rhône-style Red Blend,2,85.0,15.5,ESP,Very cheap,Not good,Not so much
+Spain,Riesling,1,82.0,20.0,ESP,Cheap,Not good,Not so much
+Spain,Rosado,64,84.6376811594203,13.072463768115941,ESP,Very cheap,Not good,Very Numerous
+Spain,Rosé,134,84.85714285714286,12.619047619047619,ESP,Very cheap,Not good,Very Numerous
+Spain,Rufete,2,85.5,28.5,ESP,Expensive,Not good,Not so much
+Spain,Sauvignon,5,85.6,15.2,ESP,Very cheap,Not good,Numerous
+Spain,Sauvignon Blanc,31,84.36363636363636,13.757575757575758,ESP,Very cheap,Not good,Very Numerous
+Spain,Sauvignon Blanc-Chardonnay,2,84.5,12.5,ESP,Very cheap,Not good,Not so much
+Spain,Sauvignon Blanc-Verdejo,4,84.75,12.25,ESP,Very cheap,Not good,Numerous
+Spain,Sherry,1,92.0,155.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Shiraz,2,87.5,13.5,ESP,Very cheap,Not so good,Not so much
+Spain,Shiraz-Cabernet Sauvignon,2,88.0,36.0,ESP,Very Expensive,Good,Not so much
+Spain,Shiraz-Tempranillo,2,82.0,8.5,ESP,Very cheap,Not good,Not so much
+Spain,Sparkling Blend,159,88.40437158469945,27.726775956284154,ESP,Expensive,Good,Very Numerous
+Spain,Syrah,32,88.47058823529412,31.029411764705884,ESP,Expensive,Good,Very Numerous
+Spain,Syrah-Grenache,6,85.5,16.333333333333332,ESP,Very cheap,Not good,Numerous
+Spain,Syrah-Merlot,1,89.0,20.0,ESP,Cheap,Very Good,Not so much
+Spain,Syrah-Petit Verdot,1,90.0,35.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Syrah-Tempranillo,1,87.0,15.0,ESP,Very cheap,Not so good,Not so much
+Spain,Tempranillo,1297,87.56005685856432,31.062544420753376,ESP,Expensive,Not so good,Very Numerous
+Spain,Tempranillo Blanco,9,83.66666666666667,29.11111111111111,ESP,Expensive,Not good,Numerous
+Spain,Tempranillo Blend,542,88.27729636048527,35.99653379549393,ESP,Very Expensive,Good,Very Numerous
+Spain,Tempranillo-Cabernet Sauvignon,45,86.33333333333333,39.1764705882353,ESP,Very Expensive,Not so good,Very Numerous
+Spain,Tempranillo-Garnacha,28,85.06666666666666,11.3,ESP,Very cheap,Not good,Very Numerous
+Spain,Tempranillo-Merlot,6,85.5,21.666666666666668,ESP,Cheap,Not good,Numerous
+Spain,Tempranillo-Shiraz,7,84.75,14.25,ESP,Very cheap,Not good,Numerous
+Spain,Tempranillo-Syrah,1,82.0,12.0,ESP,Very cheap,Not good,Not so much
+Spain,Tinta Fina,10,87.9090909090909,30.0,ESP,Expensive,Not so good,Numerous
+Spain,Tinta de Toro,157,89.58181818181818,45.35757575757576,ESP,Very Expensive,Very Good,Very Numerous
+Spain,Tinta del Pais,2,95.0,47.5,ESP,Very Expensive,Very Good,Not so much
+Spain,Tinta del Toro,3,86.33333333333333,23.333333333333332,ESP,Expensive,Not so good,Numerous
+Spain,Tinto Fino,92,89.88,64.25,ESP,Very Expensive,Very Good,Very Numerous
+Spain,Tinto Velasco,1,85.0,9.0,ESP,Very cheap,Not good,Not so much
+Spain,Tinto del Pais,16,87.88888888888889,39.44444444444444,ESP,Very Expensive,Not so good,Very Numerous
+Spain,Touriga Nacional Blend,1,90.0,144.0,ESP,Very Expensive,Very Good,Not so much
+Spain,Treixadura,2,87.33333333333333,17.0,ESP,Cheap,Not so good,Not so much
+Spain,Trepat,6,89.0,24.714285714285715,ESP,Expensive,Very Good,Numerous
+Spain,Verdejo,259,86.33566433566433,16.111888111888113,ESP,Very cheap,Not so good,Very Numerous
+Spain,Verdejo-Sauvignon Blanc,5,85.0,9.8,ESP,Very cheap,Not good,Numerous
+Spain,Verdejo-Viura,19,85.72727272727273,10.818181818181818,ESP,Very cheap,Not good,Very Numerous
+Spain,Verdil,1,86.0,18.0,ESP,Cheap,Not good,Not so much
+Spain,Verdosilla,1,84.0,17.0,ESP,Cheap,Not good,Not so much
+Spain,Vidadillo,1,89.0,24.0,ESP,Expensive,Very Good,Not so much
+Spain,Viura,100,85.28571428571429,15.295238095238096,ESP,Very cheap,Not good,Very Numerous
+Spain,Viura-Chardonnay,12,84.75,10.666666666666666,ESP,Very cheap,Not good,Numerous
+Spain,Viura-Verdejo,2,84.5,12.0,ESP,Very cheap,Not good,Not so much
+Spain,White Blend,262,86.19031141868513,20.280276816608996,ESP,Cheap,Not good,Very Numerous
+Spain,Xarel-lo,19,85.71428571428571,16.047619047619047,ESP,Very cheap,Not good,Very Numerous
+Switzerland,Chasselas,1,90.0,28.0,CHE,Expensive,Very Good,Not so much
+Switzerland,Merlot,1,83.0,38.0,CHE,Very Expensive,Not good,Not so much
+Switzerland,Pinot Noir,2,89.0,160.0,CHE,Very Expensive,Very Good,Not so much
+Switzerland,Pinot Noir-Gamay,1,90.0,30.0,CHE,Expensive,Very Good,Not so much
+Switzerland,White Blend,1,90.0,21.0,CHE,Cheap,Very Good,Not so much
+Turkey,Bordeaux-style Red Blend,3,88.0,29.333333333333332,TUR,Expensive,Good,Numerous
+Turkey,Boğazkere,4,89.75,25.75,TUR,Expensive,Very Good,Numerous
+Turkey,Cabernet Sauvignon,2,89.0,32.0,TUR,Very Expensive,Very Good,Not so much
+Turkey,Cabernet Sauvignon-Merlot,1,87.0,16.0,TUR,Very cheap,Not so good,Not so much
+Turkey,Chardonnay,1,89.0,17.0,TUR,Cheap,Very Good,Not so much
+Turkey,Emir,3,86.75,16.0,TUR,Very cheap,Not so good,Numerous
+Turkey,Kalecik Karasi,13,89.13333333333334,24.8,TUR,Expensive,Very Good,Numerous
+Turkey,Karalahna,1,87.0,15.0,TUR,Very cheap,Not so good,Not so much
+Turkey,Karasakiz,1,89.0,15.0,TUR,Very cheap,Very Good,Not so much
+Turkey,Kinali Yapincak,1,84.0,15.0,TUR,Very cheap,Not good,Not so much
+Turkey,Kuntra,1,86.0,15.0,TUR,Very cheap,Not good,Not so much
+Turkey,Merlot,1,86.0,120.0,TUR,Very Expensive,Not good,Not so much
+Turkey,Misket,1,85.0,19.0,TUR,Cheap,Not good,Not so much
+Turkey,Narince,6,87.14285714285714,21.285714285714285,TUR,Cheap,Not so good,Numerous
+Turkey,Okuzgozu,8,89.5,23.875,TUR,Expensive,Very Good,Numerous
+Turkey,Papaskarasi,2,86.66666666666667,21.333333333333332,TUR,Cheap,Not so good,Not so much
+Turkey,Red Blend,17,87.73684210526316,26.157894736842106,TUR,Expensive,Not so good,Very Numerous
+Turkey,Rosé,3,87.66666666666667,15.666666666666666,TUR,Very cheap,Not so good,Numerous
+Turkey,Sauvignon Blanc,1,89.0,18.0,TUR,Cheap,Very Good,Not so much
+Turkey,Syrah,4,89.83333333333333,32.333333333333336,TUR,Very Expensive,Very Good,Numerous
+Turkey,Syrah-Merlot,1,90.0,30.0,TUR,Expensive,Very Good,Not so much
+Turkey,White Blend,1,86.0,15.0,TUR,Very cheap,Not good,Not so much
+Turkey,Yapincak,2,85.5,18.0,TUR,Cheap,Not good,Not so much
+Turkey,Çalkarası,2,86.5,19.0,TUR,Cheap,Not so good,Not so much
+US,Abouriou,1,85.0,75.0,USA,Very Expensive,Not good,Not so much
+US,Aglianico,15,88.33333333333333,31.466666666666665,USA,Expensive,Good,Very Numerous
+US,Albariño,116,88.44961240310077,22.976744186046513,USA,Expensive,Good,Very Numerous
+US,Alicante Bouschet,5,88.2,27.8,USA,Expensive,Good,Numerous
+US,Aligoté,8,87.0,21.1,USA,Cheap,Not so good,Numerous
+US,Alvarelhão,1,85.0,18.0,USA,Cheap,Not good,Not so much
+US,Alvarinho,1,84.0,19.0,USA,Cheap,Not good,Not so much
+US,Arneis,13,88.06666666666666,21.533333333333335,USA,Cheap,Good,Numerous
+US,Auxerrois,11,89.0,22.363636363636363,USA,Cheap,Very Good,Numerous
+US,Baco Noir,15,86.125,25.75,USA,Expensive,Not good,Very Numerous
+US,Barbera,210,87.66525423728814,27.66949152542373,USA,Expensive,Not so good,Very Numerous
+US,Barbera-Nebbiolo,1,87.0,30.0,USA,Expensive,Not so good,Not so much
+US,Black Muscat,9,88.3,19.3,USA,Cheap,Good,Numerous
+US,Blanc du Bois,6,85.0,27.0,USA,Expensive,Not good,Numerous
+US,Blaufränkisch,12,88.2,27.133333333333333,USA,Expensive,Good,Numerous
+US,Bordeaux-style Red Blend,1669,89.70874861572536,58.17663344407531,USA,Very Expensive,Very Good,Very Numerous
+US,Bordeaux-style White Blend,39,88.4047619047619,30.071428571428573,USA,Expensive,Good,Very Numerous
+US,Cabernet,1,89.0,19.0,USA,Cheap,Very Good,Not so much
+US,Cabernet Blend,20,88.71428571428571,57.95238095238095,USA,Very Expensive,Good,Very Numerous
+US,Cabernet Franc,917,87.96389167502508,34.56770310932799,USA,Very Expensive,Good,Very Numerous
+US,Cabernet Franc-Cabernet Sauvignon,1,86.0,22.0,USA,Cheap,Not good,Not so much
+US,Cabernet Franc-Lemberger,2,87.0,20.0,USA,Cheap,Not so good,Not so much
+US,Cabernet Franc-Merlot,15,89.3529411764706,45.11764705882353,USA,Very Expensive,Very Good,Very Numerous
+US,Cabernet Merlot,6,84.66666666666667,12.333333333333334,USA,Very cheap,Not good,Numerous
+US,Cabernet Pfeffer,2,87.5,30.0,USA,Expensive,Not so good,Not so much
+US,Cabernet Sauvignon,6766,89.03796945934792,54.86641903975788,USA,Very Expensive,Very Good,Very Numerous
+US,Cabernet Sauvignon-Barbera,1,84.0,45.0,USA,Very Expensive,Not good,Not so much
+US,Cabernet Sauvignon-Cabernet Franc,12,89.0,54.666666666666664,USA,Very Expensive,Very Good,Numerous
+US,Cabernet Sauvignon-Carmenère,1,87.0,85.0,USA,Very Expensive,Not so good,Not so much
+US,Cabernet Sauvignon-Malbec,2,89.33333333333333,36.666666666666664,USA,Very Expensive,Very Good,Not so much
+US,Cabernet Sauvignon-Merlot,35,88.25714285714285,38.42857142857143,USA,Very Expensive,Good,Very Numerous
+US,Cabernet Sauvignon-Sangiovese,5,89.0,42.0,USA,Very Expensive,Very Good,Numerous
+US,Cabernet Sauvignon-Shiraz,1,83.0,9.0,USA,Very cheap,Not good,Not so much
+US,Cabernet Sauvignon-Syrah,63,89.9076923076923,45.03076923076923,USA,Very Expensive,Very Good,Very Numerous
+US,Cabernet Sauvignon-Tempranillo,1,87.0,18.0,USA,Cheap,Not so good,Not so much
+US,Cabernet-Shiraz,1,86.0,17.0,USA,Cheap,Not good,Not so much
+US,Cabernet-Syrah,6,89.0,25.833333333333332,USA,Expensive,Very Good,Numerous
+US,Carignan,6,89.33333333333333,33.22222222222222,USA,Very Expensive,Very Good,Numerous
+US,Carignan-Grenache,2,88.5,27.5,USA,Expensive,Good,Not so much
+US,Carignane,27,88.8,27.066666666666666,USA,Expensive,Good,Very Numerous
+US,Carmenère,40,87.97872340425532,33.91489361702128,USA,Very Expensive,Good,Very Numerous
+US,Cayuga,2,84.5,16.0,USA,Very cheap,Not good,Not so much
+US,Chambourcin,16,83.4375,18.5,USA,Cheap,Not good,Very Numerous
+US,Champagne Blend,68,88.72857142857143,39.72857142857143,USA,Very Expensive,Good,Very Numerous
+US,Chancellor,2,80.5,16.0,USA,Very cheap,Not good,Not so much
+US,Charbono,24,88.1923076923077,34.30769230769231,USA,Very Expensive,Good,Very Numerous
+US,Chardonel,1,83.0,11.0,USA,Very cheap,Not good,Not so much
+US,Chardonnay,6204,88.46474691999406,30.75374795903221,USA,Expensive,Good,Very Numerous
+US,Chardonnay-Albariño,2,91.5,31.0,USA,Expensive,Very Good,Not so much
+US,Chardonnay-Pinot Blanc,1,88.0,26.0,USA,Expensive,Good,Not so much
+US,Chardonnay-Riesling,1,87.0,24.0,USA,Expensive,Not so good,Not so much
+US,Chardonnay-Semillon,3,85.66666666666667,21.333333333333332,USA,Cheap,Not good,Numerous
+US,Chardonnay-Viognier,7,85.57142857142857,22.714285714285715,USA,Cheap,Not good,Numerous
+US,Chelois,2,85.0,22.5,USA,Cheap,Not good,Not so much
+US,Chenin Blanc,109,88.35833333333333,20.1,USA,Cheap,Good,Very Numerous
+US,Chenin Blanc-Viognier,10,87.33333333333333,14.166666666666666,USA,Very cheap,Not so good,Numerous
+US,Cinsault,28,89.51612903225806,27.70967741935484,USA,Expensive,Very Good,Very Numerous
+US,Clairette,1,89.0,30.0,USA,Expensive,Very Good,Not so much
+US,Claret,33,88.18181818181819,50.06060606060606,USA,Very Expensive,Good,Very Numerous
+US,Colombard,12,88.25,22.833333333333332,USA,Cheap,Good,Numerous
+US,Cortese,2,85.0,18.0,USA,Cheap,Not good,Not so much
+US,Counoise,11,88.83333333333333,31.083333333333332,USA,Expensive,Good,Numerous
+US,Diamond,1,86.0,10.0,USA,Very cheap,Not good,Not so much
+US,Dolcetto,48,87.24,26.54,USA,Expensive,Not so good,Very Numerous
+US,Dornfelder,4,90.75,32.5,USA,Very Expensive,Very Good,Numerous
+US,Edelzwicker,3,88.33333333333333,20.0,USA,Cheap,Good,Numerous
+US,Falanghina,2,89.0,29.0,USA,Expensive,Very Good,Not so much
+US,Fiano,7,88.44444444444444,21.333333333333332,USA,Cheap,Good,Numerous
+US,Fumé Blanc,65,87.98529411764706,22.955882352941178,USA,Expensive,Good,Very Numerous
+US,G-S-M,138,88.85034013605443,35.78231292517007,USA,Very Expensive,Good,Very Numerous
+US,Gamay,4,88.5,32.5,USA,Very Expensive,Good,Numerous
+US,Gamay Noir,17,87.78947368421052,23.42105263157895,USA,Expensive,Not so good,Very Numerous
+US,Garnacha,12,87.84615384615384,28.307692307692307,USA,Expensive,Not so good,Numerous
+US,Garnacha Blanca,1,89.0,28.0,USA,Expensive,Very Good,Not so much
+US,Gewürztraminer,370,87.82089552238806,19.18905472636816,USA,Cheap,Not so good,Very Numerous
+US,Gewürztraminer-Riesling,3,89.0,30.0,USA,Expensive,Very Good,Numerous
+US,Graciano,13,89.76923076923077,30.53846153846154,USA,Expensive,Very Good,Numerous
+US,Greco,1,87.0,20.0,USA,Cheap,Not so good,Not so much
+US,Grenache,486,89.075,35.21730769230769,USA,Very Expensive,Very Good,Very Numerous
+US,Grenache Blanc,111,88.85833333333333,24.875,USA,Expensive,Good,Very Numerous
+US,Grenache Blend,4,89.75,37.75,USA,Very Expensive,Very Good,Numerous
+US,Grenache Noir,2,90.5,38.0,USA,Very Expensive,Very Good,Not so much
+US,Grenache-Carignan,4,90.6,26.4,USA,Expensive,Very Good,Numerous
+US,Grenache-Mourvèdre,4,87.2,27.8,USA,Expensive,Not so good,Numerous
+US,Grenache-Syrah,25,89.16,40.52,USA,Very Expensive,Very Good,Very Numerous
+US,Grüner Veltliner,86,88.44329896907216,21.721649484536083,USA,Cheap,Good,Very Numerous
+US,Jacquez,3,85.0,34.333333333333336,USA,Very Expensive,Not good,Numerous
+US,Johannisberg Riesling,8,86.25,8.875,USA,Very cheap,Not good,Numerous
+US,Kerner,1,90.0,25.0,USA,Expensive,Very Good,Not so much
+US,Lagrein,7,87.71428571428571,35.285714285714285,USA,Very Expensive,Not so good,Numerous
+US,Lemberger,29,87.16666666666667,19.566666666666666,USA,Cheap,Not so good,Very Numerous
+US,Madeleine Angevine,2,85.5,17.5,USA,Cheap,Not good,Not so much
+US,Malbec,481,88.39736346516007,35.45574387947269,USA,Very Expensive,Good,Very Numerous
+US,Malbec-Cabernet Sauvignon,1,92.0,55.0,USA,Very Expensive,Very Good,Not so much
+US,Malbec-Merlot,4,87.33333333333333,28.0,USA,Expensive,Not so good,Numerous
+US,Malbec-Syrah,1,87.0,78.0,USA,Very Expensive,Not so good,Not so much
+US,Malbec-Tannat,1,91.0,50.0,USA,Very Expensive,Very Good,Not so much
+US,Malvasia,1,85.0,28.0,USA,Expensive,Not good,Not so much
+US,Malvasia Bianca,13,88.6923076923077,22.0,USA,Cheap,Good,Numerous
+US,Marquette,2,84.5,18.0,USA,Cheap,Not good,Not so much
+US,Marsanne,37,87.58974358974359,27.82051282051282,USA,Expensive,Not so good,Very Numerous
+US,Marsanne-Roussanne,17,87.11764705882354,27.0,USA,Expensive,Not so good,Very Numerous
+US,Marsanne-Viognier,2,86.5,27.5,USA,Expensive,Not so good,Not so much
+US,Mataro,3,87.33333333333333,22.666666666666668,USA,Cheap,Not so good,Numerous
+US,Melon,1,88.0,15.0,USA,Very cheap,Good,Not so much
+US,Meritage,233,87.5079365079365,35.38095238095238,USA,Very Expensive,Not so good,Very Numerous
+US,Merlot,2121,87.4015748031496,28.86045494313211,USA,Expensive,Not so good,Very Numerous
+US,Merlot-Cabernet,6,88.83333333333333,24.0,USA,Expensive,Good,Numerous
+US,Merlot-Cabernet Franc,18,88.94444444444444,39.05555555555556,USA,Very Expensive,Good,Very Numerous
+US,Merlot-Cabernet Sauvignon,14,88.57142857142857,52.714285714285715,USA,Very Expensive,Good,Numerous
+US,Merlot-Malbec,1,87.0,85.0,USA,Very Expensive,Not so good,Not so much
+US,Merlot-Petite Verdot,1,83.0,20.0,USA,Cheap,Not good,Not so much
+US,Mission,4,88.0,16.8,USA,Very cheap,Good,Numerous
+US,Monastrell,7,91.0,29.142857142857142,USA,Expensive,Very Good,Numerous
+US,Mondeuse,1,87.0,30.0,USA,Expensive,Not so good,Not so much
+US,Montepulciano,19,87.13636363636364,31.363636363636363,USA,Expensive,Not so good,Very Numerous
+US,Morio Muskat,2,87.0,17.0,USA,Cheap,Not so good,Not so much
+US,Moscato,84,86.52173913043478,14.5,USA,Very cheap,Not so good,Very Numerous
+US,Moscato Giallo,1,94.0,16.0,USA,Very cheap,Very Good,Not so much
+US,Mourvèdre,194,89.15566037735849,34.556603773584904,USA,Very Expensive,Very Good,Very Numerous
+US,Mourvèdre-Syrah,2,90.5,56.5,USA,Very Expensive,Very Good,Not so much
+US,Muscadine,2,85.5,22.5,USA,Cheap,Not good,Not so much
+US,Muscat,30,87.9090909090909,19.181818181818183,USA,Cheap,Not so good,Very Numerous
+US,Muscat Blanc,11,88.27272727272727,21.272727272727273,USA,Cheap,Good,Numerous
+US,Muscat Blanc à Petits Grains,1,87.0,20.0,USA,Cheap,Not so good,Not so much
+US,Muscat Canelli,32,87.41176470588235,19.470588235294116,USA,Cheap,Not so good,Very Numerous
+US,Muscat Hamburg,2,88.0,22.0,USA,Cheap,Good,Not so much
+US,Muscat d'Alexandrie,1,87.0,25.0,USA,Expensive,Not so good,Not so much
+US,Muskat,1,91.0,28.0,USA,Expensive,Very Good,Not so much
+US,Muskat Ottonel,6,86.28571428571429,20.571428571428573,USA,Cheap,Not good,Numerous
+US,Müller-Thurgau,11,85.0,14.0,USA,Very cheap,Not good,Numerous
+US,Nebbiolo,52,88.25,36.267857142857146,USA,Very Expensive,Good,Very Numerous
+US,Negrette,2,85.5,32.5,USA,Very Expensive,Not good,Not so much
+US,Negroamaro,1,90.0,50.0,USA,Very Expensive,Very Good,Not so much
+US,Nero d'Avola,4,88.0,29.0,USA,Expensive,Good,Numerous
+US,Norton,13,84.07692307692308,27.0,USA,Expensive,Not good,Numerous
+US,Orange Muscat,15,88.125,20.3125,USA,Cheap,Good,Very Numerous
+US,Petit Manseng,16,85.77777777777777,26.27777777777778,USA,Expensive,Not good,Very Numerous
+US,Petit Verdot,207,88.11009174311927,39.178899082568805,USA,Very Expensive,Good,Very Numerous
+US,Petite Sirah,677,88.20698924731182,31.608870967741936,USA,Expensive,Good,Very Numerous
+US,Petite Verdot,22,88.84,47.16,USA,Very Expensive,Good,Very Numerous
+US,Picpoul,7,89.875,28.25,USA,Expensive,Very Good,Numerous
+US,Pinot Auxerrois,1,89.0,22.0,USA,Cheap,Very Good,Not so much
+US,Pinot Blanc,173,88.02564102564102,20.84102564102564,USA,Cheap,Good,Very Numerous
+US,Pinot Blanc-Chardonnay,1,86.0,21.0,USA,Cheap,Not good,Not so much
+US,Pinot Blanc-Pinot Noir,1,85.0,16.0,USA,Very cheap,Not good,Not so much
+US,Pinot Blanc-Viognier,1,87.0,19.0,USA,Cheap,Not so good,Not so much
+US,Pinot Grigio,322,85.95402298850574,15.166666666666666,USA,Very cheap,Not good,Very Numerous
+US,Pinot Grigio-Sauvignon Blanc,1,87.0,35.0,USA,Very Expensive,Not so good,Not so much
+US,Pinot Gris,785,88.01393728222996,18.580720092915215,USA,Cheap,Good,Very Numerous
+US,Pinot Gris-Gewürztraminer,1,90.0,20.0,USA,Cheap,Very Good,Not so much
+US,Pinot Meunier,24,88.25925925925925,31.962962962962962,USA,Expensive,Good,Very Numerous
+US,Pinot Nero,1,86.0,59.0,USA,Very Expensive,Not good,Not so much
+US,Pinot Noir,9102,89.61801179101444,44.649217320593614,USA,Very Expensive,Very Good,Very Numerous
+US,Pinot Noir-Syrah,2,90.5,52.0,USA,Very Expensive,Very Good,Not so much
+US,Pinot-Chardonnay,4,89.4,30.4,USA,Expensive,Very Good,Numerous
+US,Pinotage,11,87.25,29.416666666666668,USA,Expensive,Not so good,Numerous
+US,Piquepoul Blanc,1,88.0,13.0,USA,Very cheap,Good,Not so much
+US,Port,44,87.6304347826087,38.82608695652174,USA,Very Expensive,Not so good,Very Numerous
+US,Primitivo,97,87.32038834951456,28.097087378640776,USA,Expensive,Not so good,Very Numerous
+US,Prosecco,1,82.0,28.0,USA,Expensive,Not good,Not so much
+US,Red Blend,2535,88.00653120464442,34.53374455732946,USA,Very Expensive,Good,Very Numerous
+US,Refosco,1,89.0,28.0,USA,Expensive,Very Good,Not so much
+US,Rhône-style Red Blend,621,89.40675477239354,37.12775330396476,USA,Very Expensive,Very Good,Very Numerous
+US,Rhône-style White Blend,201,88.62962962962963,28.02777777777778,USA,Expensive,Good,Very Numerous
+US,Ribolla Gialla,2,85.5,27.0,USA,Expensive,Not good,Not so much
+US,Riesling,1580,87.97632794457274,19.478060046189377,USA,Cheap,Good,Very Numerous
+US,Riesling-Chardonnay,1,94.0,40.0,USA,Very Expensive,Very Good,Not so much
+US,Rkatsiteli,10,85.54545454545455,22.181818181818183,USA,Cheap,Not good,Numerous
+US,Rosado,1,87.0,28.0,USA,Expensive,Not so good,Not so much
+US,Rosato,4,88.2,20.6,USA,Cheap,Good,Numerous
+US,Rosé,775,87.29838709677419,20.268433179723502,USA,Cheap,Not so good,Very Numerous
+US,Roussanne,140,88.45333333333333,27.30666666666667,USA,Expensive,Good,Very Numerous
+US,Roussanne-Grenache Blanc,1,91.0,16.0,USA,Very cheap,Very Good,Not so much
+US,Roussanne-Marsanne,2,86.0,24.0,USA,Expensive,Not good,Not so much
+US,Roussanne-Viognier,11,89.15384615384616,31.307692307692307,USA,Expensive,Very Good,Numerous
+US,Sagrantino,3,87.25,47.5,USA,Very Expensive,Not so good,Numerous
+US,Sangiovese,395,87.25641025641026,28.289044289044288,USA,Expensive,Not so good,Very Numerous
+US,Sangiovese Cabernet,3,88.5,47.75,USA,Very Expensive,Good,Numerous
+US,Sangiovese Grosso,1,87.0,45.0,USA,Very Expensive,Not so good,Not so much
+US,Sangiovese-Cabernet Sauvignon,6,86.0,30.0,USA,Expensive,Not good,Numerous
+US,Sangiovese-Syrah,4,88.2,50.4,USA,Very Expensive,Good,Numerous
+US,Saperavi,3,85.75,30.0,USA,Expensive,Not good,Numerous
+US,Sauvignon Blanc,1975,87.4892723880597,20.57695895522388,USA,Cheap,Not so good,Very Numerous
+US,Sauvignon Blanc-Chenin Blanc,1,87.0,16.0,USA,Very cheap,Not so good,Not so much
+US,Sauvignon Blanc-Semillon,35,88.62162162162163,31.2972972972973,USA,Expensive,Good,Very Numerous
+US,Sauvignon Gris,2,92.0,40.0,USA,Very Expensive,Very Good,Not so much
+US,Sauvignon Musqué,1,87.0,18.0,USA,Cheap,Not so good,Not so much
+US,Scheurebe,2,90.0,50.0,USA,Very Expensive,Very Good,Not so much
+US,Semillon-Chardonnay,4,85.75,13.5,USA,Very cheap,Not good,Numerous
+US,Semillon-Sauvignon Blanc,38,89.42105263157895,33.0,USA,Very Expensive,Very Good,Very Numerous
+US,Seyval Blanc,13,84.14285714285714,19.214285714285715,USA,Cheap,Not good,Numerous
+US,Shiraz,40,86.13953488372093,27.348837209302324,USA,Expensive,Not good,Very Numerous
+US,Siegerrebe,1,84.0,15.0,USA,Very cheap,Not good,Not so much
+US,Silvaner,1,86.0,14.0,USA,Very cheap,Not good,Not so much
+US,Souzao,2,86.66666666666667,28.0,USA,Expensive,Not so good,Not so much
+US,Sparkling Blend,329,90.11680911680912,47.52421652421653,USA,Very Expensive,Very Good,Very Numerous
+US,St. Vincent,1,85.0,24.0,USA,Expensive,Not good,Not so much
+US,Symphony,4,85.4,15.8,USA,Very cheap,Not good,Numerous
+US,Syrah,2994,89.43711276332094,38.924101610904586,USA,Very Expensive,Very Good,Very Numerous
+US,Syrah-Cabernet,7,88.14285714285714,37.857142857142854,USA,Very Expensive,Good,Numerous
+US,Syrah-Cabernet Franc,2,90.0,69.0,USA,Very Expensive,Very Good,Not so much
+US,Syrah-Cabernet Sauvignon,24,89.60714285714286,49.285714285714285,USA,Very Expensive,Very Good,Very Numerous
+US,Syrah-Grenache,30,89.3529411764706,35.5,USA,Very Expensive,Very Good,Very Numerous
+US,Syrah-Grenache-Viognier,1,90.0,45.0,USA,Very Expensive,Very Good,Not so much
+US,Syrah-Merlot,1,88.0,59.0,USA,Very Expensive,Good,Not so much
+US,Syrah-Mourvèdre,10,88.3,37.0,USA,Very Expensive,Good,Numerous
+US,Syrah-Petit Verdot,1,94.0,49.0,USA,Very Expensive,Very Good,Not so much
+US,Syrah-Petite Sirah,15,89.75,40.6875,USA,Very Expensive,Very Good,Very Numerous
+US,Syrah-Tempranillo,6,90.16666666666667,44.0,USA,Very Expensive,Very Good,Numerous
+US,Syrah-Viognier,8,89.625,47.625,USA,Very Expensive,Very Good,Numerous
+US,Sémillon,83,88.5952380952381,24.88095238095238,USA,Expensive,Good,Very Numerous
+US,Tannat,46,88.27450980392157,37.411764705882355,USA,Very Expensive,Good,Very Numerous
+US,Tannat-Syrah,1,93.0,40.0,USA,Very Expensive,Very Good,Not so much
+US,Tempranillo,313,87.65306122448979,33.00291545189504,USA,Very Expensive,Not so good,Very Numerous
+US,Tempranillo Blend,4,88.25,24.75,USA,Expensive,Good,Numerous
+US,Tempranillo-Cabernet Sauvignon,2,92.0,77.5,USA,Very Expensive,Very Good,Not so much
+US,Tempranillo-Garnacha,2,87.0,27.0,USA,Expensive,Not so good,Not so much
+US,Tempranillo-Syrah,1,91.0,23.0,USA,Expensive,Very Good,Not so much
+US,Teroldego,15,88.125,31.125,USA,Expensive,Good,Very Numerous
+US,Tinta Amarela,1,90.0,30.0,USA,Expensive,Very Good,Not so much
+US,Tinta Madeira,1,89.0,45.0,USA,Very Expensive,Very Good,Not so much
+US,Tocai Friulano,14,87.46666666666667,20.4,USA,Cheap,Not so good,Numerous
+US,Torrontés,4,89.8,26.8,USA,Expensive,Very Good,Numerous
+US,Touriga,2,89.33333333333333,45.666666666666664,USA,Very Expensive,Very Good,Not so much
+US,Touriga Nacional,16,86.77777777777777,27.666666666666668,USA,Expensive,Not so good,Very Numerous
+US,Touriga Nacional Blend,1,93.0,16.0,USA,Very cheap,Very Good,Not so much
+US,Traminette,8,85.0,15.11111111111111,USA,Very cheap,Not good,Numerous
+US,Trebbiano,3,86.33333333333333,21.0,USA,Cheap,Not so good,Numerous
+US,Trousseau Gris,2,90.0,23.666666666666668,USA,Expensive,Very Good,Not so much
+US,Ugni Blanc,3,90.66666666666667,27.0,USA,Expensive,Very Good,Numerous
+US,Valdiguié,5,87.0,19.0,USA,Cheap,Not so good,Numerous
+US,Valvin Muscat,1,87.0,13.0,USA,Very cheap,Not so good,Not so much
+US,Verdejo,4,85.75,18.25,USA,Cheap,Not good,Numerous
+US,Verdelho,23,87.1304347826087,17.08695652173913,USA,Cheap,Not so good,Very Numerous
+US,Vermentino,40,87.66666666666667,22.4,USA,Cheap,Not so good,Very Numerous
+US,Vidal,3,85.66666666666667,18.333333333333332,USA,Cheap,Not good,Numerous
+US,Vidal Blanc,36,86.17948717948718,25.76923076923077,USA,Expensive,Not good,Very Numerous
+US,Vignoles,9,85.5,18.8,USA,Cheap,Not good,Numerous
+US,Viognier,724,87.82292993630573,24.69936305732484,USA,Expensive,Not so good,Very Numerous
+US,Viognier-Chardonnay,2,86.0,37.0,USA,Very Expensive,Not good,Not so much
+US,Viognier-Gewürztraminer,1,86.0,15.0,USA,Very cheap,Not good,Not so much
+US,Viognier-Grenache Blanc,2,91.0,30.5,USA,Expensive,Very Good,Not so much
+US,Viognier-Marsanne,2,88.0,22.0,USA,Cheap,Good,Not so much
+US,Viognier-Roussanne,7,88.0,25.714285714285715,USA,Expensive,Good,Numerous
+US,Viognier-Valdiguié,1,84.0,17.0,USA,Cheap,Not good,Not so much
+US,White Blend,510,87.45161290322581,22.496415770609318,USA,Cheap,Not so good,Very Numerous
+US,White Riesling,12,88.58333333333333,15.916666666666666,USA,Very cheap,Good,Numerous
+US,Zinfandel,2503,87.85233160621762,29.612139156180607,USA,Expensive,Not so good,Very Numerous
+US,Zweigelt,7,88.14285714285714,27.857142857142858,USA,Expensive,Good,Numerous
+Ukraine,Cabernet Sauvignon,1,84.0,6.0,UKR,Very cheap,Not good,Not so much
+Ukraine,Merlot,1,84.0,6.0,UKR,Very cheap,Not good,Not so much
+Ukraine,Rosé,1,84.0,6.0,UKR,Very cheap,Not good,Not so much
+Ukraine,Sparkling Blend,2,83.5,13.0,UKR,Very cheap,Not good,Not so much
+Uruguay,Albariño,5,86.6,21.8,URY,Cheap,Not so good,Numerous
+Uruguay,Cabernet Franc,2,85.0,20.0,URY,Cheap,Not good,Not so much
+Uruguay,Cabernet Sauvignon,2,87.0,18.5,URY,Cheap,Not so good,Not so much
+Uruguay,Chardonnay,3,81.0,14.0,URY,Very cheap,Not good,Numerous
+Uruguay,Malbec,1,87.0,17.0,URY,Cheap,Not so good,Not so much
+Uruguay,Merlot,1,84.0,16.0,URY,Very cheap,Not good,Not so much
+Uruguay,Pinot Noir,5,85.4,19.2,URY,Cheap,Not good,Numerous
+Uruguay,Red Blend,17,87.25,32.5,URY,Very Expensive,Not so good,Very Numerous
+Uruguay,Rosé,2,84.33333333333333,18.0,URY,Cheap,Not good,Not so much
+Uruguay,Sauvignon Blanc,1,84.0,16.0,URY,Very cheap,Not good,Not so much
+Uruguay,Tannat,47,87.16981132075472,29.50943396226415,URY,Expensive,Not so good,Very Numerous
+Uruguay,Tannat-Cabernet Franc,1,89.0,16.0,URY,Very cheap,Very Good,Not so much
+Uruguay,Tannat-Merlot,6,86.5,17.666666666666668,URY,Cheap,Not so good,Numerous
+Uruguay,Tannat-Syrah,1,84.0,16.0,URY,Very cheap,Not good,Not so much
+Uruguay,Tempranillo-Tannat,1,88.0,20.0,URY,Cheap,Good,Not so much
+Uruguay,White Blend,1,87.0,15.0,URY,Very cheap,Not so good,Not so much
